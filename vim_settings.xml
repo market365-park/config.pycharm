@@ -6,8 +6,27 @@
       <file name="/Dummy.txt" timestamp="1523318409420">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/myapp/urls.py" timestamp="1523322151721">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="22" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/stack_manager/views.py" timestamp="1523322236112">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
         <mark key="[" line="27" column="17" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/settings.py" timestamp="1523322121821">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/stack_manager/views.py" timestamp="1523322228395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/django/cc2_os_api/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/locations.py" timestamp="1523275121267">
         <mark key="[" line="37" column="0" />
@@ -15,7 +34,15 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/myapp/settings.py" timestamp="1523320392933" />
+      <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/myapp/settings.py" timestamp="1523322104166">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="101" column="1" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523322157788">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" timestamp="1523276839553">
         <mark key="'" line="0" column="0" />
       </file>
@@ -24,7 +51,44 @@
       <jump line="17" column="14" filename="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" />
       <jump line="0" column="0" filename="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIKZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlCmZyb20gcmVzdF9mcmFtZXdvcmsuZGVjb3JhdG9ycyBpbXBvcnQgYXBpX3ZpZXcKCmRlZiBpbmRleChyZXF1ZXN0KToKICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIkhlbGxvLCB3b3JsZC4gWW91J3JlIGF0IHRoZSBwb2xscyBpbmRleC4iKQoKQGFwaV92aWV3KFsnUE9TVCddKQpkZWYgc3RhY2socmVxdWVzdCk6CiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIKZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlCmZyb20gcmVzdF9mcmFtZXdvcmsuZGVjb3JhdG9ycyBpbXBvcnQgYXBpX3ZpZXcKCmRlZiBpbmRleChyZXF1ZXN0KToKICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIkhlbGxvLCB3b3JsZC4gWW91J3JlIGF0IHRoZSBwb2xscyBpbmRleC4iKQoKQGFwaV92aWV3KFsnUE9TVCddKQpkZWYgc3RhY2socmVxdWVzdCk6CiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">XQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJ2FkbWluLycsIGFkbWluLnNpdGUudXJscyksCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>p</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -35,7 +99,14 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
