@@ -44,18 +44,20 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="22" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523323356217">
+      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
         <mark key="[" line="45" column="65" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/stack_manager/views.py" timestamp="1523325184898">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/templates/metering/metering.html" timestamp="1523326266696" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/stack_manager/views.py" timestamp="1523326317419">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/settings.py" timestamp="1523324488741">
-        <mark key="[" line="91" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/settings.py" timestamp="1523325448671">
+        <mark key="[" line="47" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="0" />
@@ -77,53 +79,48 @@
       <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" timestamp="1523276839553">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/views.py" timestamp="1523326236327" />
     </filemarks>
     <jumps>
       <jump line="17" column="14" filename="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" />
       <jump line="0" column="0" filename="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>from django.urls import path
-
-from . import views
-
-urlpatterns = [
-    path('', views.index, name='stack_index'),
-]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBIdHRwUmVzcG9uc2UoIkhlbGxvLCB3b3JsZC4gWW91J3JlIGF0IHRoZSBwb2xscyBpbmRleC4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBbCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBbCg==</text>
+      <register name="&quot;" type="4">
+        <text>.&quot;)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm91dGVyID0gcm91dGVycy5EZWZhdWx0Um91dGVyKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIndmVyc2lvbnMnLCB2aWV3cy5WZXJzaW9uVmlld1NldClkZGQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">XQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGktdjEvJywgaW5jbHVkZSgncmVzdF9mcmFtZXdvcmsudXJscycsIG5hbWVzcGFjZT0ncmVzdF9mcmFtZXdvcmtfY2F0ZWdvcnknKSksCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14nLCBpbmNsdWRlKHJvdXRlci51cmxzKSksCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">dXJscGF0dGVybnMgPSBbCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">cm91dGVyID0gcm91dGVycy5EZWZhdWx0Um91dGVyKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIndmVyc2lvbnMnLCB2aWV3cy5WZXJzaW9uVmlld1NldClkZGQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">XQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15hcGktdjEvJywgaW5jbHVkZSgncmVzdF9mcmFtZXdvcmsudXJscycsIG5hbWVzcGFjZT0ncmVzdF9mcmFtZXdvcmtfY2F0ZWdvcnknKSksCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVybChyJ14nLCBpbmNsdWRlKHJvdXRlci51cmxzKSksCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dXJscGF0dGVybnMgPSBbCg==</text>
+      </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>.&quot;)</text>
       </register>
     </registers>
     <search>
