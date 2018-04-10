@@ -147,7 +147,7 @@
         <text encoding="base64">ICAgIO+/ve+/vcOzOiBodHRwOiAvLyBhaWVyYS50aXN0b3J5LmNvbSAvIDIwOVtBSQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -161,10 +161,10 @@
         <entry>./</entry>
         <entry>e ./</entry>
         <entry>!</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
