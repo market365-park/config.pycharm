@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1523325340037">
+      <file name="/Dummy.txt" timestamp="1523402552759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1523285856801">
@@ -25,6 +25,7 @@
       <file name="/fragment.py" timestamp="1523401224853">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/.gitignore" timestamp="1523402774865" />
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/stack_manager/tests.py" timestamp="1523333773429">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="3" column="2" />
@@ -50,11 +51,10 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/drivers/stack_driver.py" timestamp="1523401249154">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/drivers/stack_driver.py" timestamp="1523402391006">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="[Connection]consoles\Connection" timestamp="1523323103561">
         <mark key="[" line="0" column="0" />
@@ -71,9 +71,9 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523340291857">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/stack_manager/views.py" timestamp="1523334048585">
         <mark key="[" line="0" column="0" />
@@ -96,9 +96,9 @@
         <mark key="]" line="39" column="32" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523334098197">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -113,11 +113,11 @@
       <jump line="1" column="39" filename="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/drivers/orchestration_driver.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgRGF0YVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
