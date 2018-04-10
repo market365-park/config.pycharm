@@ -1,60 +1,108 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Commit...">
+      <Statistic Action="Copy">
         <Item>
-          <IdeaActionID>CheckinProject</IdeaActionID>
-          <ShortCut>'⌘K'</ShortCut>
-          <Description>Commit...</Description>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Preferences...">
+      <Statistic Action="Debug">
         <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'⌘,'</ShortCut>
-          <Description>Preferences...</Description>
-          <Count>1</Count>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'runserver'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'runserver'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'⌘1'</ShortCut>
+          <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Synchronize">
+      <Statistic Action="Rerun 'runserver'">
         <Item>
-          <IdeaActionID>Synchronize</IdeaActionID>
-          <ShortCut>'⌥⌘Y'</ShortCut>
-          <Description>Synchronize</Description>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'runserver'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'runserver'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'runserver'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="TODO">
+      <Statistic Action="Settings...">
         <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'⌘6'</ShortCut>
-          <Description>TODO</Description>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'runserver'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'runserver'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'⌥F12'</ShortCut>
+          <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Version Control">
+      <Statistic Action="Toggle Line Breakpoint">
         <Item>
-          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
-          <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
-          <Description>Version Control</Description>
-          <Count>1</Count>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
     </option>
