@@ -29,8 +29,10 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373238113">
-        <mark key="[" line="0" column="17" />
+      <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373296242">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523339037138">
         <mark key="[" line="10" column="4" />
@@ -108,8 +110,8 @@
       <jump line="1" column="39" filename="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/drivers/orchestration_driver.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -121,28 +123,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc2VyaWFsaXplcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRGF0YVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIO+/ve+/vcOzOiBodHRwOiAvLyBhaWVyYS50aXN0b3J5LmNvbSAvIDIwOVtBSQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGFwaV92aWV3KFsnUE9TVCddKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIO+/ve+/ve+/ve+/vSA/XQo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc2VyaWFsaXplcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIHNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">Y2xhc3MgRGF0YVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3N0YWNrLycsIGluY2x1ZGUoJ3N0YWNrX21hbmFnZXIudXJscycpKSwK</text>
+        <text encoding="base64">ICAgIO+/ve+/vcOzOiBodHRwOiAvLyBhaWVyYS50aXN0b3J5LmNvbSAvIDIwOVtBSQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
