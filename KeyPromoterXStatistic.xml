@@ -25,6 +25,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'runserver'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -65,12 +81,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
     </option>

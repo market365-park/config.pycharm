@@ -13,12 +13,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="]" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/cc2_os_api/venv/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg/pip/locations.py" timestamp="1523275121267">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/auth.py" timestamp="1523336059488">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
@@ -36,11 +30,10 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/templates/metering/metering.html" timestamp="1523326266696" />
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523337683958">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523340291857">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/settings.py" timestamp="1523334172798">
         <mark key="[" line="39" column="5" />
@@ -56,7 +49,7 @@
       <file name="/Dummy.txt" timestamp="1523325340037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/urls.py" timestamp="1523334105085">
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/urls.py" timestamp="1523338897692">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
@@ -72,17 +65,16 @@
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523334974044">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523339037138">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/drivers/stack_driver.py" timestamp="1523336419706">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="76" column="24" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/drivers/stack_driver.py" timestamp="1523339808839">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="[Connection]consoles\Connection" timestamp="1523323103561">
         <mark key="[" line="0" column="0" />
@@ -115,42 +107,41 @@
       <jump line="1" column="39" filename="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/drivers/orchestration_driver.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwKZnJvbSBoZWF0Y2xpZW50IGltcG9ydCBjbGllbnQgYXMgaGNsaWVudApmcm9tIGhlYXRjbGllbnQuY29tbW9uIGltcG9ydCB0ZW1wbGF0ZV91dGlscwoKZnJvbSAuYXV0aCBpbXBvcnQgc2VzcwoKZGVmIGNyZWF0ZV9zdGFjayhpbnN0YW5jZV9pbmZvKToKICAgICMgZGF0YSA9IHsncmVzb3VyY2VzJzp7J215X2luc3RhbmNlJzp7J3R5cGUnOidPUzo6Tm92YTo6U2VydmVyJywgJ3Byb3BlcnRpZXMnOnsnbmFtZSc6c3RyKGluc3RhbmNlX2luZm9bJ25hbWUnXSksJ2ltYWdlJzpzdHIoaW5zdGFuY2VfaW5mb1snaW1hZ2UnXSksJ2ZsYXZvcic6c3RyKGluc3RhbmNlX2luZm9bJ2ZsYXZvciddKSwnbmV0d29ya3MnOlt7J25ldHdvcmsnOidWTS1OZXR3b3JrMDEnfV19fX19CiAgICBkYXRhID0geyJyZXNvdXJjZXMiOiB7CiAgICAgICAgIm15X2luc3RhbmNlIjogeyJ0eXBlIjogIk9TOjpOb3ZhOjpTZXJ2ZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAicHJvcGVydGllcyI6IHsibmFtZSI6IHN0cihpbnN0YW5jZV9pbmZvWyduYW1lJ10pLCAiaW1hZ2UiOiBzdHIoaW5zdGFuY2VfaW5mb1snaW1hZ2UnXSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmbGF2b3IiOiBzdHIoaW5zdGFuY2VfaW5mb1snZmxhdm9yJ10pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibmV0d29ya3MiOiBbeyJwb3J0IjogIntnZXRfcmVzb3VyY2U6IGluc3RhbmNlX3BvcnR9In1dfX0sCiAgICAgICAgImluc3RhbmNlX3BvcnQiOiB7InR5cGUiOiAiT1M6Ok5ldXRyb246OlBvcnQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogeyJuZXR3b3JrIjogIlZNLU5ldHdvcmswMSIsICJzZWN1cml0eV9ncm91cHMiOiBbImRlZmF1bHQiXX19LAogICAgICAgICJmbG9hdGluZ19pcCI6IHsidHlwZSI6ICJPUzo6TmV1dHJvbjo6RmxvYXRpbmdJUCIsICJwcm9wZXJ0aWVzIjogeyJmbG9hdGluZ19uZXR3b3JrIjogIkV4LU5ldHdvcmswMSJ9fSwKICAgICAgICAiYXNzb2NpYXRpb24iOiB7InR5cGUiOiAiT1M6Ok5ldXRyb246OkZsb2F0aW5nSVBBc3NvY2lhdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogeyJmbG9hdGluZ2lwX2lkIjogIntnZXRfcmVzb3VyY2U6IGZsb2F0aW5nX2lwfSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwb3J0X2lkIjogIntnZXRfcmVzb3VyY2U6IGluc3RhbmNlX3BvcnR9In19CiAgICB9LAogICAgICAgICJvdXRwdXRzIjogeyJpbnN0YW5jZV9uYW1lIjogeyJkZXNjcmlwdGlvbiI6ICJOYW1lIG9mIHRoZSBpbnN0YW5jZSIsICJ2YWx1ZSI6ICJ7Z2V0X2F0dHI6W215X2luc3RhbmNlLCBuYW1lXX0ifSwKICAgICAgICAgICAgICAgICAgICAiaW5zdGFuY2VfaWQiOiB7ImRlc2NyaXB0aW9uIjogIlVVSUQgb2YgdGhlIGluc3RhbmNlIiwgInZhbHVlIjogIntnZXRfcmVzb3VyY2U6IG15X2luc3RhbmNlfSJ9LAogICAgICAgICAgICAgICAgICAgICMgImluc3RhbmNlX2ltYWdlX25hbWUiOnsiZGVzY3JpcHRpb24iOiJOYW1lIG9mIHRoZSBpbWFnZSIsInZhbHVlIjoie2dldF9hdHRyOltteV9pbnN0YW5jZSwgaW1hZ2VdfSJ9LAogICAgICAgICAgICAgICAgICAgICMgImluc3RhbmNlX2ZsYXZvcl9uYW1lIjp7ImRlc2NyaXB0aW9uIjoiTmFtZSBvZiB0aGUgZmxhdm9yIiwidmFsdWUiOiJ7Z2V0X2F0dHI6W215X2luc3RhbmNlLCBmbGF2b3JdfSJ9LAogICAgICAgICAgICAgICAgICAgICJpbnN0YW5jZV9wdWJsaWNfaXAiOiB7ImRlc2NyaXB0aW9uIjogIkZsb2F0aW5nIElQIGFkZHJlc3MiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIntnZXRfYXR0cjpbZmxvYXRpbmdfaXAsIGZsb2F0aW5nX2lwX2FkZHJlc3NdfSJ9CgogICAgICAgICAgICAgICAgICAgIH0KICAgIH0KCiAgICBzdGFjayA9IHlhbWwuZHVtcChkYXRhLCBkZWZhdWx0X2Zsb3dfc3R5bGU9RmFsc2UpCiAgICBzdGFjayA9IHN0YWNrLnJlcGxhY2UoIiciLCAiIikKCiAgICBmaWxlX3BhdGggPSAiL2V0Yy9vcGVuc3RhY2svaGVhdC8lcy1zdGFjay55bWwiICUgKGluc3RhbmNlX2luZm9bJ25hbWUnXSkKICAgIHdpdGggb3BlbihmaWxlX3BhdGgsICd3JykgYXMgZjoKICAgICAgICAjIGYud3JpdGUoJ2hlYXRfdGVtcGxhdGVfdmVyc2lvbjogMjAxMy0wNS0yM1xuJykKICAgICAgICBmLndyaXRlKCdoZWF0X3RlbXBsYXRlX3ZlcnNpb246IDIwMTYtMDQtMDhcbicpCiAgICAgICAgZi53cml0ZSgnZGVzY3JpcHRpb246IFNpbXBsZSB0ZW1wbGF0ZSB0byBkZXBsb3kgYSBzaW5nbGUgY29tcHV0ZSBpbnN0YW5jZVxuJykKICAgICAgICBmLndyaXRlKHN0YWNrKQoKICAgIGhlYXQgPSBoY2xpZW50LkNsaWVudCgiMSIsIHNlc3Npb249c2VzcykKCiAgICB0ZW1wbGF0ZV9maWxlID0gZmlsZV9wYXRoCiAgICB0ZW1wbGF0ZV91cmwgPSAnJwogICAgdGVtcGxhdGVfb2JqZWN0ID0gJycKCiAgICB0cGxfZmlsZXMsIHRlbXBsYXRlID0gdGVtcGxhdGVfdXRpbHMuZ2V0X3RlbXBsYXRlX2NvbnRlbnRzKHRlbXBsYXRlX2ZpbGUsIHRlbXBsYXRlX3VybCwgdGVtcGxhdGVfb2JqZWN0KQoKICAgIHN0YWNrX25hbWUgPSAiJXMtJXMtc3RhY2siICUgKHN0cihpbnN0YW5jZV9pbmZvWydvd25lciddKSwgc3RyKGluc3RhbmNlX2luZm9bJ25hbWUnXSkpCgogICAgZmllbGRzID0gewogICAgICAgICdzdGFja19uYW1lJzogc3RhY2tfbmFtZSwKICAgICAgICAndGVtcGxhdGUnOiB0ZW1wbGF0ZQogICAgfQoKICAgIGhlYXQuc3RhY2tzLmNyZWF0ZSgqKmZpZWxkcykKCiAgICByZXR1cm4KCgpkZWYgZGVsZXRlX3N0YWNrKHN0YWNrX25hbWUpOgogICAgaGVhdCA9IGhjbGllbnQuQ2xpZW50KCIxIiwgc2Vzc2lvbj1zZXNzKQogICAgZmllbGRzID0geydzdGFja19pZCc6IHN0YWNrX25hbWV9CgogICAgaGVhdC5zdGFja3MuZGVsZXRlKCoqZmllbGRzKQogICAgcmV0dXJuCgoKZGVmIGdldF9zdGFjaygpOgogICAgaGVhdCA9IGhjbGllbnQuQ2xpZW50KCIxIiwgc2Vzc2lvbj1zZXNzKQogICAgcmV0dXJuIGhlYXQuc3RhY2tzLmxpc3QoKQoKCmRlZiBnZXRfc3RhY2tfZGV0YWlsKHN0YWNrX25hbWUpOgogICAgaGVhdCA9IGhjbGllbnQuQ2xpZW50KCIxIiwgc2Vzc2lvbj1zZXNzKQogICAgc3RhY2sgPSBoZWF0LnN0YWNrcy5nZXQoc3RhY2tfbmFtZSkKCiAgICByZXR1cm4gc3RhY2sub3V0cHV0cwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2xhc3MgRGF0YVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3N0YWNrLycsIGluY2x1ZGUoJ3N0YWNrX21hbmFnZXIudXJscycpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc2VyaWFsaXplcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRGF0YVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuU2VyaWFsaXplcik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgIMPiw7M6IGh0dHA6IC8vIGFpZXJhLnRpc3RvcnkuY29tIC8gMjA5W0FJCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">QGFwaV92aWV3KFsnUE9TVCddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGF0aCgnYXBpLycsIGluY2x1ZGUoJ2FwaV9tYW5hZ2VyLnVybHMnKSksCg==</text>
+        <text encoding="base64">ICAgILy8u/MgP10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGF0aCgnc3RhY2svJywgaW5jbHVkZSgnc3RhY2tfbWFuYWdlci51cmxzJykpLAo=</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIHNlcmlhbGl6ZXIK</text>
       </register>
-      <register name="9" type="4">
-        <text>s')),
-    path('api/', include('api_manager.urls')),</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhdGgoJ3N0YWNrLycsIGluY2x1ZGUoJ3N0YWNrX21hbmFnZXIudXJscycpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -193,6 +184,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
