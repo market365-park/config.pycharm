@@ -15,16 +15,17 @@
       <file name="/fragment.py" timestamp="1523401224853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/serializers.py" timestamp="1523579390896">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/serializers.py" timestamp="1523593359474">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373296242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/home/workspaces/djangoWorkspace/booking.web/booking/models.py" timestamp="1523593032189" />
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/auth.py" timestamp="1523414441883">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="9" column="45" />
@@ -42,12 +43,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523580330138">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523593943222" />
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/settings.py" timestamp="1523578634407">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="21" />
@@ -68,10 +64,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/models.py" timestamp="1523579243804">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/models.py" timestamp="1523593240515">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="22" column="51" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/.gitignore" timestamp="1523410657092">
         <mark key="[" line="175" column="0" />
@@ -89,7 +86,7 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/drivers/stack_driver.py" timestamp="1523414093305">
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/drivers/stack_driver.py" timestamp="1523593522871">
         <mark key="[" line="20" column="54" />
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
@@ -97,11 +94,6 @@
       </file>
       <file name="[Connection]consoles\Connection" timestamp="1523323103561">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/stack_manager/views.py" timestamp="1523334048585">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="35" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/admin.py" timestamp="1523579350874">
         <mark key="[" line="5" column="0" />
@@ -130,41 +122,41 @@
       <jump line="1" column="39" filename="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/drivers/orchestration_driver.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInc3RhY2snLCBzdGFjaykK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncG9zdCcsIFBvc3RWaWV3U2V0KQo=</text>
+        <text encoding="base64">Y2xhc3MgUG9zdFNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBQb3N0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInc3RhY2snLCBzdGFjaykK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSAnX19hbGxfXycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcGlfbWFuYWdlciBpbXBvcnQgdmlld3MK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcGlfbWFuYWdlci52aWV3cyBpbXBvcnQgKiAK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29ya19zd2FnZ2VyLnZpZXdzIGltcG9ydCBnZXRfc3dhZ2dlcl92aWV3Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">w+LDszogaHR0cDovL3B5bWFuLnRpc3RvcnkuY29tLzUwIFtdCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlIC0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">w+LDszogaHR0cDovL3B5bWFuLnRpc3RvcnkuY29tLzUwIFtdCg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInc3RhY2snLCBzdGFjaykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcGlfbWFuYWdlciBpbXBvcnQgdmlld3MK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -210,6 +202,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
