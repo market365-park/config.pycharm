@@ -78,7 +78,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -94,7 +94,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'runserver'</Description>
-          <Count>10</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">

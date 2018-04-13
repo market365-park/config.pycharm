@@ -62,10 +62,11 @@
       <file name="/Dummy.txt" timestamp="1523402552759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/urls.py" timestamp="1523578703762">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/urls.py" timestamp="1523581663506">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/models.py" timestamp="1523579243804">
         <mark key="[" line="10" column="0" />
@@ -130,25 +131,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInc3RhY2snLCBzdGFjaykK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>k</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdyZXN0X2ZyYW1ld29yaycsCg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHIncG9zdCcsIFBvc3RWaWV3U2V0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInc3RhY2snLCBzdGFjaykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcGlfbWFuYWdlciBpbXBvcnQgdmlld3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">w+LDszogaHR0cDovL3B5bWFuLnRpc3RvcnkuY29tLzUwIFtdCg==</text>
+        <text encoding="base64">ZnJvbSBhcGlfbWFuYWdlci52aWV3cyBpbXBvcnQgKiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29ya19zd2FnZ2VyLnZpZXdzIGltcG9ydCBnZXRfc3dhZ2dlcl92aWV3Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">w+LDszogaHR0cDovL3B5bWFuLnRpc3RvcnkuY29tLzUwIFtdCg==</text>
