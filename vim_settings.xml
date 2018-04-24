@@ -17,22 +17,23 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings/production.py" timestamp="1524569828580">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings/production.py" timestamp="1524573408531">
+        <mark key="[" line="7" column="20" />
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/booking/models.py" timestamp="1524573918170" />
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/auth.py" timestamp="1523414441883">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="9" column="45" />
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/roles/booking/tasks/04_Container.yml" timestamp="1524572455688">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/roles/booking/tasks/04_Container.yml" timestamp="1524573280090">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
         <mark key="[" line="45" column="65" />
@@ -51,10 +52,17 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/booking/admin.py" timestamp="1524573899705" />
       <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/stack_manager/views.py" timestamp="1523322639092">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="67" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524573940600">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1524492838699">
         <mark key="[" line="0" column="0" />
@@ -65,6 +73,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/settings.py" timestamp="1524573714520" />
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/models.py" timestamp="1523596027848">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="2" column="24" />
@@ -87,6 +96,17 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/admin.py" timestamp="1524573906224">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524573668303">
+        <mark key="[" line="117" column="14" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="97" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523409536503">
         <mark key="[" line="10" column="4" />
@@ -116,6 +136,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings/base.py" timestamp="1524573487852">
+        <mark key="^" line="16" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="14" filename="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" />
@@ -130,7 +153,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNWVNRTF9QQVNTV09SRDogZGV2T3BzITIzCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -139,51 +162,40 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cFJlc3BvbnNlKCJPSyEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNWVNRTF9QQVNTV09SRDogZGV2T3BzITIzCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNWVNRTF9VU0VSOiBhZG1pbgo=</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="5" type="4">
-        <text>- name: Make docker tmp directory 
-  file:
-    path: /tmp/docker
-    state: directory
-    mode: 0755
-
-- name: Copy the Dockerfile
-  template:
-    src: Dockerfile.tmp
-    dest: /tmp/docker/Dockerfile
-    owner: root
-    group: root
-    mode: 0777
-    backup: yes
-
-- shell: docker build -t booking-img /tmp/docker/
-  register: ps
-  ignore_errors: yes
-
-- debug:
-    msg: &quot;{{ps.stdout_lines}}&quot;</text>
+      <register name="5" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiBkZXZPcHMhMjMKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxMT1dFRF9IT1NUUyA9IFsnbXl3ZWJzaXRlLmNvbSddCg==</text>
+        <text encoding="base64">ICAgICAgICBNWVNRTF9EQVRBQkFTRTogYm9va2luZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgc2VyaWFsaXplcnMK</text>
+        <text encoding="base64">ICAgICAgLSAiL21udC9teS5jbmYvOi9ldGMvbXlzcWwvY29uZi5kLyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgcGFyYW1ldGVycyA9IERhdGFTZXJpYWxpemVyKHJlcXVlc3QuZGF0YSkK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
