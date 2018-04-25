@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524665365974">
-        <mark key="[" line="233" column="11" />
-        <mark key="]" line="233" column="11" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="233" column="11" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524666307756">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524663536708">
         <mark key="[" line="122" column="0" />
@@ -176,8 +175,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDxhcnRpY2xlIHJvbGU9InBnZS10aXRsZS1jb250ZW50Ij4KICAgICAgICAgICAgICAgIDxwPlRoaXMgaXMgdGhlIHN0b3J5IG9mIEF2YW5hLCBhIG1pbmltYWwgQm9vdHN0cmFwIHRlbXBsYXRlIGZvciBjcmVhdGl2ZSBhZ2VuY3kuPC9wPgogICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -280,32 +279,32 @@
 				  }]
 				});</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IDxhcnRpY2xlIHJvbGU9InBnZS10aXRsZS1jb250ZW50Ij4KICAgICAgICAgICAgICAgIDxwPlRoaXMgaXMgdGhlIHN0b3J5IG9mIEF2YW5hLCBhIG1pbmltYWwgQm9vdHN0cmFwIHRlbXBsYXRlIGZvciBjcmVhdGl2ZSBhZ2VuY3kuPC9wPgogICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVsIGNsYXNzPSJncmlkLWxvZCBlZmZlY3QtMiIgaWQ9ImdyaWQiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9J3slIHN0YXRpYyAiaW1hZ2VzL2hvbWUtaW1hZ2VzL2ltYWdlLTIuanBnIiAlfScgYWx0PSIiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9J3slIHN0YXRpYyAiaW1hZ2VzL2hvbWUtaW1hZ2VzL2ltYWdlLTIuanBnIiAlfScgYWx0PSIiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQliYWNrZ3JvdW5kLWNvbG9yOiAjREREREREOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzPSJlZmZlY3Qtb3NjYXIiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmb250LWZhbWlseTogIkhlbHZldGljYSBOdWV1ZSIsQXJpYWwsVmVyZGFuYSxzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9maWdjYXB0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
