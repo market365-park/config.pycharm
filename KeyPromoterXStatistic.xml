@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>ShowNavBar</IdeaActionID>
           <ShortCut>'⌘↑' or '⌥↖'</ShortCut>
           <Description>Jump to Navigation Bar</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>24</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -102,7 +102,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RUNSERVER'</Description>
-          <Count>32</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'runserver'">
@@ -215,6 +215,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'⌘T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>

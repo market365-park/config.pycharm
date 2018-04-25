@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524661429640">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524664800638">
+        <mark key="[" line="74" column="7" />
+        <mark key="]" line="74" column="7" />
+        <mark key="." line="74" column="7" />
+        <mark key="^" line="73" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524661433662">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="40" />
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524663536708">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="31" />
       </file>
-      <file name="/fragment.py" timestamp="1523401224853">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Downloads/gentelella-master/build/js/custom.js" timestamp="1524664771472">
+        <mark key="[" line="2386" column="16" />
+        <mark key="]" line="2478" column="18" />
+        <mark key="." line="2386" column="16" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/serializers.py" timestamp="1523595813265">
         <mark key="[" line="10" column="19" />
@@ -43,12 +46,73 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" timestamp="1524576896111">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="2" column="40" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/.gitignore" timestamp="1523410657092">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524584882082">
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="131" column="32" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524662220813">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="93" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523409536503">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
+        <mark key="[" line="16" column="33" />
+      </file>
+      <file name="[Connection]consoles\Connection" timestamp="1523323103561">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/admin.py" timestamp="1523596013799">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523584010989">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/footer.html" timestamp="1524585598922">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1523401224853">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
         <mark key="[" line="45" column="65" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/deploy.container.booking/roles/booking/tasks/04_Container.yml" timestamp="1524570512276" />
+      <file name="$USER_HOME$/Downloads/x_full_calendar/fullcalendar.html" timestamp="1524662824534">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523599798151">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -60,27 +124,15 @@
         <mark key="]" line="5" column="67" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/views.py" timestamp="1524577934034">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" timestamp="1524576896111">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524587300522">
-        <mark key="[" line="67" column="84" />
-        <mark key="]" line="67" column="67" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="67" column="56" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="32" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/urls.py" timestamp="1524579551141" />
       <file name="/Dummy.txt" timestamp="1524575939029">
@@ -88,11 +140,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/settings.py" timestamp="1524573714520" />
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/Dockerfile.tmp" timestamp="1524571144592" />
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/.gitignore" timestamp="1523410657092">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/urls.py" timestamp="1524579811829">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -108,49 +155,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524584882082">
-        <mark key="[" line="135" column="19" />
-        <mark key="]" line="131" column="32" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524583712058">
-        <mark key="[" line="85" column="61" />
-        <mark key="]" line="85" column="93" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523409536503">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
-        <mark key="[" line="16" column="33" />
-      </file>
-      <file name="[Connection]consoles\Connection" timestamp="1523323103561">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/gentelella-master/production/calendar.html" timestamp="1524661520617">
+      <file name="$USER_HOME$/Downloads/gentelella-master/production/calendar.html" timestamp="1524664416405">
         <mark key="[" line="12" column="4" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/admin.py" timestamp="1523596013799">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
         <mark key="[" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings/development.py" timestamp="1524569820930" />
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523584010989">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/footer.html" timestamp="1524585598922">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="14" filename="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py" />
@@ -165,26 +176,209 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlsZT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IAoJICAgIHZhciBkYXRlID0gbmV3IERhdGUoKTsKCQl2YXIgZCA9IGRhdGUuZ2V0RGF0ZSgpOwoJCXZhciBtID0gZGF0ZS5nZXRNb250aCgpOwoJCXZhciB5ID0gZGF0ZS5nZXRGdWxsWWVhcigpOwoKCQkvKiAgY2xhc3NOYW1lIGNvbG9ycwoKCQljbGFzc05hbWU6IGRlZmF1bHQodHJhbnNwYXJlbnQpLCBpbXBvcnRhbnQocmVkKSwgY2hpbGwocGluayksIHN1Y2Nlc3MoZ3JlZW4pLCBpbmZvKGJsdWUpCgoJCSovCgoKCQkvKiBpbml0aWFsaXplIHRoZSBleHRlcm5hbCBldmVudHMKCQktLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgoJCSQoJyNleHRlcm5hbC1ldmVudHMgZGl2LmV4dGVybmFsLWV2ZW50JykuZWFjaChmdW5jdGlvbigpIHsKCgkJCS8vIGNyZWF0ZSBhbiBFdmVudCBPYmplY3QgKGh0dHA6Ly9hcnNoYXcuY29tL2Z1bGxjYWxlbmRhci9kb2NzL2V2ZW50X2RhdGEvRXZlbnRfT2JqZWN0LykKCQkJLy8gaXQgZG9lc24ndCBuZWVkIHRvIGhhdmUgYSBzdGFydCBvciBlbmQKCQkJdmFyIGV2ZW50T2JqZWN0ID0gewoJCQkJdGl0bGU6ICQudHJpbSgkKHRoaXMpLnRleHQoKSkgLy8gdXNlIHRoZSBlbGVtZW50J3MgdGV4dCBhcyB0aGUgZXZlbnQgdGl0bGUKCQkJfTsKCgkJCS8vIHN0b3JlIHRoZSBFdmVudCBPYmplY3QgaW4gdGhlIERPTSBlbGVtZW50IHNvIHdlIGNhbiBnZXQgdG8gaXQgbGF0ZXIKCQkJJCh0aGlzKS5kYXRhKCdldmVudE9iamVjdCcsIGV2ZW50T2JqZWN0KTsKCgkJCS8vIG1ha2UgdGhlIGV2ZW50IGRyYWdnYWJsZSB1c2luZyBqUXVlcnkgVUkKCQkJJCh0aGlzKS5kcmFnZ2FibGUoewoJCQkJekluZGV4OiA5OTksCgkJCQlyZXZlcnQ6IHRydWUsICAgICAgLy8gd2lsbCBjYXVzZSB0aGUgZXZlbnQgdG8gZ28gYmFjayB0byBpdHMKCQkJCXJldmVydER1cmF0aW9uOiAwICAvLyAgb3JpZ2luYWwgcG9zaXRpb24gYWZ0ZXIgdGhlIGRyYWcKCQkJfSk7CgoJCX0pOwoKCgkJLyogaW5pdGlhbGl6ZSB0aGUgY2FsZW5kYXIKCQktLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgoJCXZhciBjYWxlbmRhciA9ICAkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoewoJCQloZWFkZXI6IHsKCQkJCWxlZnQ6ICd0aXRsZScsCgkJCQljZW50ZXI6ICdhZ2VuZGFEYXksYWdlbmRhV2Vlayxtb250aCcsCgkJCQlyaWdodDogJ3ByZXYsbmV4dCB0b2RheScKCQkJfSwKCQkJZWRpdGFibGU6IHRydWUsCgkJCWZpcnN0RGF5OiAxLCAvLyAgMShNb25kYXkpIHRoaXMgY2FuIGJlIGNoYW5nZWQgdG8gMChTdW5kYXkpIGZvciB0aGUgVVNBIHN5c3RlbQoJCQlzZWxlY3RhYmxlOiB0cnVlLAoJCQlkZWZhdWx0VmlldzogJ21vbnRoJywKCgkJCWF4aXNGb3JtYXQ6ICdoOm1tJywKCQkJY29sdW1uRm9ybWF0OiB7CiAgICAgICAgICAgICAgICBtb250aDogJ2RkZCcsICAgIC8vIE1vbgogICAgICAgICAgICAgICAgd2VlazogJ2RkZCBkJywgLy8gTW9uIDcKICAgICAgICAgICAgICAgIGRheTogJ2RkZGQgTS9kJywgIC8vIE1vbmRheSA5LzcKICAgICAgICAgICAgICAgIGFnZW5kYURheTogJ2RkZGQgZCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgdGl0bGVGb3JtYXQ6IHsKICAgICAgICAgICAgICAgIG1vbnRoOiAnTU1NTSB5eXl5JywgLy8gU2VwdGVtYmVyIDIwMDkKICAgICAgICAgICAgICAgIHdlZWs6ICJNTU1NIHl5eXkiLCAvLyBTZXB0ZW1iZXIgMjAwOQogICAgICAgICAgICAgICAgZGF5OiAnTU1NTSB5eXl5JyAgICAgICAgICAgICAgICAgIC8vIFR1ZXNkYXksIFNlcCA4LCAyMDA5CiAgICAgICAgICAgIH0sCgkJCWFsbERheVNsb3Q6IGZhbHNlLAoJCQlzZWxlY3RIZWxwZXI6IHRydWUsCgkJCXNlbGVjdDogZnVuY3Rpb24oc3RhcnQsIGVuZCwgYWxsRGF5KSB7CgkJCQl2YXIgdGl0bGUgPSBwcm9tcHQoJ0V2ZW50IFRpdGxlOicpOwoJCQkJaWYgKHRpdGxlKSB7CgkJCQkJY2FsZW5kYXIuZnVsbENhbGVuZGFyKCdyZW5kZXJFdmVudCcsCgkJCQkJCXsKCQkJCQkJCXRpdGxlOiB0aXRsZSwKCQkJCQkJCXN0YXJ0OiBzdGFydCwKCQkJCQkJCWVuZDogZW5kLAoJCQkJCQkJYWxsRGF5OiBhbGxEYXkKCQkJCQkJfSwKCQkJCQkJdHJ1ZSAvLyBtYWtlIHRoZSBldmVudCAic3RpY2siCgkJCQkJKTsKCQkJCX0KCQkJCWNhbGVuZGFyLmZ1bGxDYWxlbmRhcigndW5zZWxlY3QnKTsKCQkJfSwKCQkJZHJvcHBhYmxlOiB0cnVlLCAvLyB0aGlzIGFsbG93cyB0aGluZ3MgdG8gYmUgZHJvcHBlZCBvbnRvIHRoZSBjYWxlbmRhciAhISEKCQkJZHJvcDogZnVuY3Rpb24oZGF0ZSwgYWxsRGF5KSB7IC8vIHRoaXMgZnVuY3Rpb24gaXMgY2FsbGVkIHdoZW4gc29tZXRoaW5nIGlzIGRyb3BwZWQKCgkJCQkvLyByZXRyaWV2ZSB0aGUgZHJvcHBlZCBlbGVtZW50J3Mgc3RvcmVkIEV2ZW50IE9iamVjdAoJCQkJdmFyIG9yaWdpbmFsRXZlbnRPYmplY3QgPSAkKHRoaXMpLmRhdGEoJ2V2ZW50T2JqZWN0Jyk7CgoJCQkJLy8gd2UgbmVlZCB0byBjb3B5IGl0LCBzbyB0aGF0IG11bHRpcGxlIGV2ZW50cyBkb24ndCBoYXZlIGEgcmVmZXJlbmNlIHRvIHRoZSBzYW1lIG9iamVjdAoJCQkJdmFyIGNvcGllZEV2ZW50T2JqZWN0ID0gJC5leHRlbmQoe30sIG9yaWdpbmFsRXZlbnRPYmplY3QpOwoKCQkJCS8vIGFzc2lnbiBpdCB0aGUgZGF0ZSB0aGF0IHdhcyByZXBvcnRlZAoJCQkJY29waWVkRXZlbnRPYmplY3Quc3RhcnQgPSBkYXRlOwoJCQkJY29waWVkRXZlbnRPYmplY3QuYWxsRGF5ID0gYWxsRGF5OwoKCQkJCS8vIHJlbmRlciB0aGUgZXZlbnQgb24gdGhlIGNhbGVuZGFyCgkJCQkvLyB0aGUgbGFzdCBgdHJ1ZWAgYXJndW1lbnQgZGV0ZXJtaW5lcyBpZiB0aGUgZXZlbnQgInN0aWNrcyIgKGh0dHA6Ly9hcnNoYXcuY29tL2Z1bGxjYWxlbmRhci9kb2NzL2V2ZW50X3JlbmRlcmluZy9yZW5kZXJFdmVudC8pCgkJCQkkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoJ3JlbmRlckV2ZW50JywgY29waWVkRXZlbnRPYmplY3QsIHRydWUpOwoKCQkJCS8vIGlzIHRoZSAicmVtb3ZlIGFmdGVyIGRyb3AiIGNoZWNrYm94IGNoZWNrZWQ/CgkJCQlpZiAoJCgnI2Ryb3AtcmVtb3ZlJykuaXMoJzpjaGVja2VkJykpIHsKCQkJCQkvLyBpZiBzbywgcmVtb3ZlIHRoZSBlbGVtZW50IGZyb20gdGhlICJEcmFnZ2FibGUgRXZlbnRzIiBsaXN0CgkJCQkJJCh0aGlzKS5yZW1vdmUoKTsKCQkJCX0KCgkJCX0sCgoJCQlldmVudHM6IFsKCQkJCXsKCQkJCQl0aXRsZTogJ0FsbCBEYXkgRXZlbnQnLAoJCQkJCXN0YXJ0OiBuZXcgRGF0ZSh5LCBtLCAxKQoJCQkJfSwKCQkJCXsKCQkJCQlpZDogOTk5LAoJCQkJCXRpdGxlOiAnUmVwZWF0aW5nIEV2ZW50JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZC0zLCAxNiwgMCksCgkJCQkJYWxsRGF5OiBmYWxzZSwKCQkJCQljbGFzc05hbWU6ICdpbmZvJwoJCQkJfSwKCQkJCXsKCQkJCQlpZDogOTk5LAoJCQkJCXRpdGxlOiAnUmVwZWF0aW5nIEV2ZW50JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCs0LCAxNiwgMCksCgkJCQkJYWxsRGF5OiBmYWxzZSwKCQkJCQljbGFzc05hbWU6ICdpbmZvJwoJCQkJfSwKCQkJCXsKCQkJCQl0aXRsZTogJ01lZXRpbmcnLAoJCQkJCXN0YXJ0OiBuZXcgRGF0ZSh5LCBtLCBkLCAxMCwgMzApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQkJY2xhc3NOYW1lOiAnaW1wb3J0YW50JwoJCQkJfSwKCQkJCXsKCQkJCQl0aXRsZTogJ0x1bmNoJywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCwgMTIsIDApLAoJCQkJCWVuZDogbmV3IERhdGUoeSwgbSwgZCwgMTQsIDApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQkJY2xhc3NOYW1lOiAnaW1wb3J0YW50JwoJCQkJfSwKCQkJCXsKCQkJCQl0aXRsZTogJ0JpcnRoZGF5IFBhcnR5JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCsxLCAxOSwgMCksCgkJCQkJZW5kOiBuZXcgRGF0ZSh5LCBtLCBkKzEsIDIyLCAzMCksCgkJCQkJYWxsRGF5OiBmYWxzZSwKCQkJCX0sCgkJCQl7CgkJCQkJdGl0bGU6ICdDbGljayBmb3IgR29vZ2xlJywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgMjgpLAoJCQkJCWVuZDogbmV3IERhdGUoeSwgbSwgMjkpLAoJCQkJCXVybDogJ2h0dHA6Ly9nb29nbGUuY29tLycsCgkJCQkJY2xhc3NOYW1lOiAnc3VjY2VzcycKCQkJCX0KCQkJXSwKCQl9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHNlY3Rpb24gY2xhc3M9ImNvbC14cy0xMiBjb2wtc20tNiBjb2wtbWQtNiBjb2wtbGctNiAiPgogICAgICAgICAgICA8YXJ0aWNsZSByb2xlPSJwZ2UtdGl0bGUtY29udGVudCI+CiAgICAgICAgICAgICAgICA8aGVhZGVyPgogICAgICAgICAgICAgICAgICAgIDxoMj48c3Bhbj5hdmFuYTwvc3Bhbj4gQSBCcmFuZCBuZXcgQWdlbmN5LjwvaDI+CiAgICAgICAgICAgICAgICA8L2hlYWRlcj4KCiAgICAgICAgICAgICAgICA8cD5UaGlzIGlzIHRoZSBzdG9yeSBvZiBBdmFuYSwgYSBtaW5pbWFsIEJvb3RzdHJhcCB0ZW1wbGF0ZSBmb3IgY3JlYXRpdmUgYWdlbmN5LjwvcD4KICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgIDwvc2VjdGlvbj4K</text>
+        <text>var date = new Date(),
+					d = date.getDate(),
+					m = date.getMonth(),
+					y = date.getFullYear(),
+					started,
+					categoryClass;
+
+				var calendar = $('#calendar').fullCalendar({
+				  header: {
+					left: 'prev,next today',
+					center: 'title',
+					right: 'month,agendaWeek,agendaDay,listMonth'
+				  },
+				  selectable: true,
+				  selectHelper: true,
+				  select: function(start, end, allDay) {
+					$('#fc_create').click();
+
+					started = start;
+					ended = end;
+
+					$(&quot;.antosubmit&quot;).on(&quot;click&quot;, function() {
+					  var title = $(&quot;#title&quot;).val();
+					  if (end) {
+						ended = end;
+					  }
+
+					  categoryClass = $(&quot;#event_type&quot;).val();
+
+					  if (title) {
+						calendar.fullCalendar('renderEvent', {
+							title: title,
+							start: started,
+							end: end,
+							allDay: allDay
+						  },
+						  true // make the event &quot;stick&quot;
+						);
+					  }
+
+					  $('#title').val('');
+
+					  calendar.fullCalendar('unselect');
+
+					  $('.antoclose').click();
+
+					  return false;
+					});
+				  },
+				  eventClick: function(calEvent, jsEvent, view) {
+					$('#fc_edit').click();
+					$('#title2').val(calEvent.title);
+
+					categoryClass = $(&quot;#event_type&quot;).val();
+
+					$(&quot;.antosubmit2&quot;).on(&quot;click&quot;, function() {
+					  calEvent.title = $(&quot;#title2&quot;).val();
+
+					  calendar.fullCalendar('updateEvent', calEvent);
+					  $('.antoclose2').click();
+					});
+
+					calendar.fullCalendar('unselect');
+				  },
+				  editable: true,
+				  events: [{
+					title: 'All Day Event',
+					start: new Date(y, m, 1)
+				  }, {
+					title: 'Long Event',
+					start: new Date(y, m, d - 5),
+					end: new Date(y, m, d - 2)
+				  }, {
+					title: 'Meeting',
+					start: new Date(y, m, d, 10, 30),
+					allDay: false
+				  }, {
+					title: 'Lunch',
+					start: new Date(y, m, d + 14, 12, 0),
+					end: new Date(y, m, d, 14, 0),
+					allDay: false
+				  }, {
+					title: 'Birthday Party',
+					start: new Date(y, m, d + 1, 19, 0),
+					end: new Date(y, m, d + 1, 22, 30),
+					allDay: false
+				  }, {
+					title: 'Click for Google',
+					start: new Date(y, m, 28),
+					end: new Date(y, m, 29),
+					url: 'http://google.com/'
+				  }]
+				});</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlsZT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAoJICAgIHZhciBkYXRlID0gbmV3IERhdGUoKTsKCQl2YXIgZCA9IGRhdGUuZ2V0RGF0ZSgpOwoJCXZhciBtID0gZGF0ZS5nZXRNb250aCgpOwoJCXZhciB5ID0gZGF0ZS5nZXRGdWxsWWVhcigpOwoKCQkvKiAgY2xhc3NOYW1lIGNvbG9ycwoKCQljbGFzc05hbWU6IGRlZmF1bHQodHJhbnNwYXJlbnQpLCBpbXBvcnRhbnQocmVkKSwgY2hpbGwocGluayksIHN1Y2Nlc3MoZ3JlZW4pLCBpbmZvKGJsdWUpCgoJCSovCgoKCQkvKiBpbml0aWFsaXplIHRoZSBleHRlcm5hbCBldmVudHMKCQktLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgoJCSQoJyNleHRlcm5hbC1ldmVudHMgZGl2LmV4dGVybmFsLWV2ZW50JykuZWFjaChmdW5jdGlvbigpIHsKCgkJCS8vIGNyZWF0ZSBhbiBFdmVudCBPYmplY3QgKGh0dHA6Ly9hcnNoYXcuY29tL2Z1bGxjYWxlbmRhci9kb2NzL2V2ZW50X2RhdGEvRXZlbnRfT2JqZWN0LykKCQkJLy8gaXQgZG9lc24ndCBuZWVkIHRvIGhhdmUgYSBzdGFydCBvciBlbmQKCQkJdmFyIGV2ZW50T2JqZWN0ID0gewoJCQkJdGl0bGU6ICQudHJpbSgkKHRoaXMpLnRleHQoKSkgLy8gdXNlIHRoZSBlbGVtZW50J3MgdGV4dCBhcyB0aGUgZXZlbnQgdGl0bGUKCQkJfTsKCgkJCS8vIHN0b3JlIHRoZSBFdmVudCBPYmplY3QgaW4gdGhlIERPTSBlbGVtZW50IHNvIHdlIGNhbiBnZXQgdG8gaXQgbGF0ZXIKCQkJJCh0aGlzKS5kYXRhKCdldmVudE9iamVjdCcsIGV2ZW50T2JqZWN0KTsKCgkJCS8vIG1ha2UgdGhlIGV2ZW50IGRyYWdnYWJsZSB1c2luZyBqUXVlcnkgVUkKCQkJJCh0aGlzKS5kcmFnZ2FibGUoewoJCQkJekluZGV4OiA5OTksCgkJCQlyZXZlcnQ6IHRydWUsICAgICAgLy8gd2lsbCBjYXVzZSB0aGUgZXZlbnQgdG8gZ28gYmFjayB0byBpdHMKCQkJCXJldmVydER1cmF0aW9uOiAwICAvLyAgb3JpZ2luYWwgcG9zaXRpb24gYWZ0ZXIgdGhlIGRyYWcKCQkJfSk7CgoJCX0pOwoKCgkJLyogaW5pdGlhbGl6ZSB0aGUgY2FsZW5kYXIKCQktLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgoJCXZhciBjYWxlbmRhciA9ICAkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoewoJCQloZWFkZXI6IHsKCQkJCWxlZnQ6ICd0aXRsZScsCgkJCQljZW50ZXI6ICdhZ2VuZGFEYXksYWdlbmRhV2Vlayxtb250aCcsCgkJCQlyaWdodDogJ3ByZXYsbmV4dCB0b2RheScKCQkJfSwKCQkJZWRpdGFibGU6IHRydWUsCgkJCWZpcnN0RGF5OiAxLCAvLyAgMShNb25kYXkpIHRoaXMgY2FuIGJlIGNoYW5nZWQgdG8gMChTdW5kYXkpIGZvciB0aGUgVVNBIHN5c3RlbQoJCQlzZWxlY3RhYmxlOiB0cnVlLAoJCQlkZWZhdWx0VmlldzogJ21vbnRoJywKCgkJCWF4aXNGb3JtYXQ6ICdoOm1tJywKCQkJY29sdW1uRm9ybWF0OiB7CiAgICAgICAgICAgICAgICBtb250aDogJ2RkZCcsICAgIC8vIE1vbgogICAgICAgICAgICAgICAgd2VlazogJ2RkZCBkJywgLy8gTW9uIDcKICAgICAgICAgICAgICAgIGRheTogJ2RkZGQgTS9kJywgIC8vIE1vbmRheSA5LzcKICAgICAgICAgICAgICAgIGFnZW5kYURheTogJ2RkZGQgZCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgdGl0bGVGb3JtYXQ6IHsKICAgICAgICAgICAgICAgIG1vbnRoOiAnTU1NTSB5eXl5JywgLy8gU2VwdGVtYmVyIDIwMDkKICAgICAgICAgICAgICAgIHdlZWs6ICJNTU1NIHl5eXkiLCAvLyBTZXB0ZW1iZXIgMjAwOQogICAgICAgICAgICAgICAgZGF5OiAnTU1NTSB5eXl5JyAgICAgICAgICAgICAgICAgIC8vIFR1ZXNkYXksIFNlcCA4LCAyMDA5CiAgICAgICAgICAgIH0sCgkJCWFsbERheVNsb3Q6IGZhbHNlLAoJCQlzZWxlY3RIZWxwZXI6IHRydWUsCgkJCXNlbGVjdDogZnVuY3Rpb24oc3RhcnQsIGVuZCwgYWxsRGF5KSB7CgkJCQl2YXIgdGl0bGUgPSBwcm9tcHQoJ0V2ZW50IFRpdGxlOicpOwoJCQkJaWYgKHRpdGxlKSB7CgkJCQkJY2FsZW5kYXIuZnVsbENhbGVuZGFyKCdyZW5kZXJFdmVudCcsCgkJCQkJCXsKCQkJCQkJCXRpdGxlOiB0aXRsZSwKCQkJCQkJCXN0YXJ0OiBzdGFydCwKCQkJCQkJCWVuZDogZW5kLAoJCQkJCQkJYWxsRGF5OiBhbGxEYXkKCQkJCQkJfSwKCQkJCQkJdHJ1ZSAvLyBtYWtlIHRoZSBldmVudCAic3RpY2siCgkJCQkJKTsKCQkJCX0KCQkJCWNhbGVuZGFyLmZ1bGxDYWxlbmRhcigndW5zZWxlY3QnKTsKCQkJfSwKCQkJZHJvcHBhYmxlOiB0cnVlLCAvLyB0aGlzIGFsbG93cyB0aGluZ3MgdG8gYmUgZHJvcHBlZCBvbnRvIHRoZSBjYWxlbmRhciAhISEKCQkJZHJvcDogZnVuY3Rpb24oZGF0ZSwgYWxsRGF5KSB7IC8vIHRoaXMgZnVuY3Rpb24gaXMgY2FsbGVkIHdoZW4gc29tZXRoaW5nIGlzIGRyb3BwZWQKCgkJCQkvLyByZXRyaWV2ZSB0aGUgZHJvcHBlZCBlbGVtZW50J3Mgc3RvcmVkIEV2ZW50IE9iamVjdAoJCQkJdmFyIG9yaWdpbmFsRXZlbnRPYmplY3QgPSAkKHRoaXMpLmRhdGEoJ2V2ZW50T2JqZWN0Jyk7CgoJCQkJLy8gd2UgbmVlZCB0byBjb3B5IGl0LCBzbyB0aGF0IG11bHRpcGxlIGV2ZW50cyBkb24ndCBoYXZlIGEgcmVmZXJlbmNlIHRvIHRoZSBzYW1lIG9iamVjdAoJCQkJdmFyIGNvcGllZEV2ZW50T2JqZWN0ID0gJC5leHRlbmQoe30sIG9yaWdpbmFsRXZlbnRPYmplY3QpOwoKCQkJCS8vIGFzc2lnbiBpdCB0aGUgZGF0ZSB0aGF0IHdhcyByZXBvcnRlZAoJCQkJY29waWVkRXZlbnRPYmplY3Quc3RhcnQgPSBkYXRlOwoJCQkJY29waWVkRXZlbnRPYmplY3QuYWxsRGF5ID0gYWxsRGF5OwoKCQkJCS8vIHJlbmRlciB0aGUgZXZlbnQgb24gdGhlIGNhbGVuZGFyCgkJCQkvLyB0aGUgbGFzdCBgdHJ1ZWAgYXJndW1lbnQgZGV0ZXJtaW5lcyBpZiB0aGUgZXZlbnQgInN0aWNrcyIgKGh0dHA6Ly9hcnNoYXcuY29tL2Z1bGxjYWxlbmRhci9kb2NzL2V2ZW50X3JlbmRlcmluZy9yZW5kZXJFdmVudC8pCgkJCQkkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoJ3JlbmRlckV2ZW50JywgY29waWVkRXZlbnRPYmplY3QsIHRydWUpOwoKCQkJCS8vIGlzIHRoZSAicmVtb3ZlIGFmdGVyIGRyb3AiIGNoZWNrYm94IGNoZWNrZWQ/CgkJCQlpZiAoJCgnI2Ryb3AtcmVtb3ZlJykuaXMoJzpjaGVja2VkJykpIHsKCQkJCQkvLyBpZiBzbywgcmVtb3ZlIHRoZSBlbGVtZW50IGZyb20gdGhlICJEcmFnZ2FibGUgRXZlbnRzIiBsaXN0CgkJCQkJJCh0aGlzKS5yZW1vdmUoKTsKCQkJCX0KCgkJCX0sCgoJCQlldmVudHM6IFsKCQkJCXsKCQkJCQl0aXRsZTogJ0FsbCBEYXkgRXZlbnQnLAoJCQkJCXN0YXJ0OiBuZXcgRGF0ZSh5LCBtLCAxKQoJCQkJfSwKCQkJCXsKCQkJCQlpZDogOTk5LAoJCQkJCXRpdGxlOiAnUmVwZWF0aW5nIEV2ZW50JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZC0zLCAxNiwgMCksCgkJCQkJYWxsRGF5OiBmYWxzZSwKCQkJCQljbGFzc05hbWU6ICdpbmZvJwoJCQkJfSwKCQkJCXsKCQkJCQlpZDogOTk5LAoJCQkJCXRpdGxlOiAnUmVwZWF0aW5nIEV2ZW50JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCs0LCAxNiwgMCksCgkJCQkJYWxsRGF5OiBmYWxzZSwKCQkJCQljbGFzc05hbWU6ICdpbmZvJwoJCQkJfSwKCQkJCXsKCQkJCQl0aXRsZTogJ01lZXRpbmcnLAoJCQkJCXN0YXJ0OiBuZXcgRGF0ZSh5LCBtLCBkLCAxMCwgMzApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQkJY2xhc3NOYW1lOiAnaW1wb3J0YW50JwoJCQkJfSwKCQkJCXsKCQkJCQl0aXRsZTogJ0x1bmNoJywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCwgMTIsIDApLAoJCQkJCWVuZDogbmV3IERhdGUoeSwgbSwgZCwgMTQsIDApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQkJY2xhc3NOYW1lOiAnaW1wb3J0YW50JwoJCQkJfSwKCQkJCXsKCQkJCQl0aXRsZTogJ0JpcnRoZGF5IFBhcnR5JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCsxLCAxOSwgMCksCgkJCQkJZW5kOiBuZXcgRGF0ZSh5LCBtLCBkKzEsIDIyLCAzMCksCgkJCQkJYWxsRGF5OiBmYWxzZSwKCQkJCX0sCgkJCQl7CgkJCQkJdGl0bGU6ICdDbGljayBmb3IgR29vZ2xlJywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgMjgpLAoJCQkJCWVuZDogbmV3IERhdGUoeSwgbSwgMjkpLAoJCQkJCXVybDogJ2h0dHA6Ly9nb29nbGUuY29tLycsCgkJCQkJY2xhc3NOYW1lOiAnc3VjY2VzcycKCQkJCX0KCQkJXSwKCQl9KTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Y2xlIHJvbGU9InBnZS10aXRsZS1jb250ZW50Ij4KICAgICAgICAgICAgICAgIDxoZWFkZXI+CiAgICAgICAgICAgICAgICAgICAgPGgyPjxzcGFuPmF2YW5hPC9zcGFuPiBBIEJyYW5kIG5ldyBBZ2VuY3kuPC9oMj4KICAgICAgICAgICAgICAgIDwvaGVhZGVyPgoKICAgICAgICAgICAgICAgIDxwPlRoaXMgaXMgdGhlIHN0b3J5IG9mIEF2YW5hLCBhIG1pbmltYWwgQm9vdHN0cmFwIHRlbXBsYXRlIGZvciBjcmVhdGl2ZSBhZ2VuY3kuPC9wPgogICAgICAgICAgICA8L2FydGk=</text>
+        <text>var date = new Date(),
+					d = date.getDate(),
+					m = date.getMonth(),
+					y = date.getFullYear(),
+					started,
+					categoryClass;
+
+				var calendar = $('#calendar').fullCalendar({
+				  header: {
+					left: 'prev,next today',
+					center: 'title',
+					right: 'month,agendaWeek,agendaDay,listMonth'
+				  },
+				  selectable: true,
+				  selectHelper: true,
+				  select: function(start, end, allDay) {
+					$('#fc_create').click();
+
+					started = start;
+					ended = end;
+
+					$(&quot;.antosubmit&quot;).on(&quot;click&quot;, function() {
+					  var title = $(&quot;#title&quot;).val();
+					  if (end) {
+						ended = end;
+					  }
+
+					  categoryClass = $(&quot;#event_type&quot;).val();
+
+					  if (title) {
+						calendar.fullCalendar('renderEvent', {
+							title: title,
+							start: started,
+							end: end,
+							allDay: allDay
+						  },
+						  true // make the event &quot;stick&quot;
+						);
+					  }
+
+					  $('#title').val('');
+
+					  calendar.fullCalendar('unselect');
+
+					  $('.antoclose').click();
+
+					  return false;
+					});
+				  },
+				  eventClick: function(calEvent, jsEvent, view) {
+					$('#fc_edit').click();
+					$('#title2').val(calEvent.title);
+
+					categoryClass = $(&quot;#event_type&quot;).val();
+
+					$(&quot;.antosubmit2&quot;).on(&quot;click&quot;, function() {
+					  calEvent.title = $(&quot;#title2&quot;).val();
+
+					  calendar.fullCalendar('updateEvent', calEvent);
+					  $('.antoclose2').click();
+					});
+
+					calendar.fullCalendar('unselect');
+				  },
+				  editable: true,
+				  events: [{
+					title: 'All Day Event',
+					start: new Date(y, m, 1)
+				  }, {
+					title: 'Long Event',
+					start: new Date(y, m, d - 5),
+					end: new Date(y, m, d - 2)
+				  }, {
+					title: 'Meeting',
+					start: new Date(y, m, d, 10, 30),
+					allDay: false
+				  }, {
+					title: 'Lunch',
+					start: new Date(y, m, d + 14, 12, 0),
+					end: new Date(y, m, d, 14, 0),
+					allDay: false
+				  }, {
+					title: 'Birthday Party',
+					start: new Date(y, m, d + 1, 19, 0),
+					end: new Date(y, m, d + 1, 22, 30),
+					allDay: false
+				  }, {
+					title: 'Click for Google',
+					start: new Date(y, m, 28),
+					end: new Date(y, m, 29),
+					url: 'http://google.com/'
+				  }]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzPSJlZmZlY3Qtb3NjYXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL2hvbWUtaW1hZ2VzL2ltYWdlLTUuanBnIiBhbHQ9IiIgY2xhc3M9ImltZy1yZXNwb25zaXZlIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWdjYXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyPkEgQnJhbmQgPHNwYW4+bmV3IEFnZW5jeTwvc3Bhbj48L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+T3ZlciA0MCwwMDAgY3VzdG9tZXJzIHVzZSBvdXIgdGhlbWVzIHRvIHBvd2VyIHRoZWlyPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0id29ya3MtZGV0YWlscy5odG1sIj5WaWV3IG1vcmU8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzcz0iZWZmZWN0LW9zY2FyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9ob21lLWltYWdlcy9pbWFnZS0zLmpwZyIgYWx0PSIiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMj5BbmF0b21lIE1pbGFubyA8c3Bhbj5HYWxsZXJpYTwvc3Bhbj48L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+R2FsZXJpZSBBbmF0b21lIGJhc2VkIGluIFBhcmlzPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0id29ya3MtZGV0YWlscy5odG1sIj5WaWV3IG1vcmU8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzcz0iZWZmZWN0LW9zY2FyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9ob21lLWltYWdlcy9pbWFnZS01LmpwZyIgYWx0PSIiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMj5BIEJyYW5kIDxzcGFuPm5ldyBBZ2VuY3k8L3NwYW4+PC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPk92ZXIgNDAsMDAwIGN1c3RvbWVycyB1c2Ugb3VyIHRoZW1lcyB0byBwb3dlciB0aGVpcjwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IndvcmtzLWRldGFpbHMuaHRtbCI+VmlldyBtb3JlPC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L2ZpZ2NhcHRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzPSJlZmZlY3Qtb3NjYXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL2hvbWUtaW1hZ2VzL2ltYWdlLTMuanBnIiBhbHQ9IiIgY2xhc3M9ImltZy1yZXNwb25zaXZlIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWdjYXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyPkFuYXRvbWUgTWlsYW5vIDxzcGFuPkdhbGxlcmlhPC9zcGFuPjwvaDI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD5HYWxlcmllIEFuYXRvbWUgYmFzZWQgaW4gUGFyaXM8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ3b3Jrcy1kZXRhaWxzLmh0bWwiPlZpZXcgbW9yZTwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9maWdjYXB0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZmlndXJlPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzPSJlZmZlY3Qtb3NjYXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL2hvbWUtaW1hZ2VzL2ltYWdlLTUuanBnIiBhbHQ9IiIgY2xhc3M9ImltZy1yZXNwb25zaXZlIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWdjYXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyPkEgQnJhbmQgPHNwYW4+bmV3IEFnZW5jeTwvc3Bhbj48L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+T3ZlciA0MCwwMDAgY3VzdG9tZXJzIHVzZSBvdXIgdGhlbWVzIHRvIHBvd2VyIHRoZWlyPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0id29ya3MtZGV0YWlscy5odG1sIj5WaWV3IG1vcmU8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzcz0iZWZmZWN0LW9zY2FyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9ob21lLWltYWdlcy9pbWFnZS0zLmpwZyIgYWx0PSIiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMj5BbmF0b21lIE1pbGFubyA8c3Bhbj5HYWxsZXJpYTwvc3Bhbj48L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+R2FsZXJpZSBBbmF0b21lIGJhc2VkIGluIFBhcmlzPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0id29ya3MtZGV0YWlscy5odG1sIj5WaWV3IG1vcmU8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGZpZ3VyZSBjbGFzcz0iZWZmZWN0LW9zY2FyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9ImltYWdlcy9ob21lLWltYWdlcy9pbWFnZS01LmpwZyIgYWx0PSIiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIvPgogICAgICAgICAgICAgICAgICAgICAgICA8ZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMj5BIEJyYW5kIDxzcGFuPm5ldyBBZ2VuY3k8L3NwYW4+PC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPk92ZXIgNDAsMDAwIGN1c3RvbWVycyB1c2Ugb3VyIHRoZW1lcyB0byBwb3dlciB0aGVpcjwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IndvcmtzLWRldGFpbHMuaHRtbCI+VmlldyBtb3JlPC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L2ZpZ2NhcHRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgICA8L2xpPgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgkkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsKCSAgICB2YXIgZGF0ZSA9IG5ldyBEYXRlKCk7CgkJdmFyIGQgPSBkYXRlLmdldERhdGUoKTsKCQl2YXIgbSA9IGRhdGUuZ2V0TW9udGgoKTsKCQl2YXIgeSA9IGRhdGUuZ2V0RnVsbFllYXIoKTsKCgkJLyogIGNsYXNzTmFtZSBjb2xvcnMKCgkJY2xhc3NOYW1lOiBkZWZhdWx0KHRyYW5zcGFyZW50KSwgaW1wb3J0YW50KHJlZCksIGNoaWxsKHBpbmspLCBzdWNjZXNzKGdyZWVuKSwgaW5mbyhibHVlKQoKCQkqLwoKCgkJLyogaW5pdGlhbGl6ZSB0aGUgZXh0ZXJuYWwgZXZlbnRzCgkJLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0qLwoKCQkkKCcjZXh0ZXJuYWwtZXZlbnRzIGRpdi5leHRlcm5hbC1ldmVudCcpLmVhY2goZnVuY3Rpb24oKSB7CgoJCQkvLyBjcmVhdGUgYW4gRXZlbnQgT2JqZWN0IChodHRwOi8vYXJzaGF3LmNvbS9mdWxsY2FsZW5kYXIvZG9jcy9ldmVudF9kYXRhL0V2ZW50X09iamVjdC8pCgkJCS8vIGl0IGRvZXNuJ3QgbmVlZCB0byBoYXZlIGEgc3RhcnQgb3IgZW5kCgkJCXZhciBldmVudE9iamVjdCA9IHsKCQkJCXRpdGxlOiAkLnRyaW0oJCh0aGlzKS50ZXh0KCkpIC8vIHVzZSB0aGUgZWxlbWVudCdzIHRleHQgYXMgdGhlIGV2ZW50IHRpdGxlCgkJCX07CgoJCQkvLyBzdG9yZSB0aGUgRXZlbnQgT2JqZWN0IGluIHRoZSBET00gZWxlbWVudCBzbyB3ZSBjYW4gZ2V0IHRvIGl0IGxhdGVyCgkJCSQodGhpcykuZGF0YSgnZXZlbnRPYmplY3QnLCBldmVudE9iamVjdCk7CgoJCQkvLyBtYWtlIHRoZSBldmVudCBkcmFnZ2FibGUgdXNpbmcgalF1ZXJ5IFVJCgkJCSQodGhpcykuZHJhZ2dhYmxlKHsKCQkJCXpJbmRleDogOTk5LAoJCQkJcmV2ZXJ0OiB0cnVlLCAgICAgIC8vIHdpbGwgY2F1c2UgdGhlIGV2ZW50IHRvIGdvIGJhY2sgdG8gaXRzCgkJCQlyZXZlcnREdXJhdGlvbjogMCAgLy8gIG9yaWdpbmFsIHBvc2l0aW9uIGFmdGVyIHRoZSBkcmFnCgkJCX0pOwoKCQl9KTsKCgoJCS8qIGluaXRpYWxpemUgdGhlIGNhbGVuZGFyCgkJLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0qLwoKCQl2YXIgY2FsZW5kYXIgPSAgJCgnI2NhbGVuZGFyJykuZnVsbENhbGVuZGFyKHsKCQkJaGVhZGVyOiB7CgkJCQlsZWZ0OiAndGl0bGUnLAoJCQkJY2VudGVyOiAnYWdlbmRhRGF5LGFnZW5kYVdlZWssbW9udGgnLAoJCQkJcmlnaHQ6ICdwcmV2LG5leHQgdG9kYXknCgkJCX0sCgkJCWVkaXRhYmxlOiB0cnVlLAoJCQlmaXJzdERheTogMSwgLy8gIDEoTW9uZGF5KSB0aGlzIGNhbiBiZSBjaGFuZ2VkIHRvIDAoU3VuZGF5KSBmb3IgdGhlIFVTQSBzeXN0ZW0KCQkJc2VsZWN0YWJsZTogdHJ1ZSwKCQkJZGVmYXVsdFZpZXc6ICdtb250aCcsCgoJCQlheGlzRm9ybWF0OiAnaDptbScsCgkJCWNvbHVtbkZvcm1hdDogewogICAgICAgICAgICAgICAgbW9udGg6ICdkZGQnLCAgICAvLyBNb24KICAgICAgICAgICAgICAgIHdlZWs6ICdkZGQgZCcsIC8vIE1vbiA3CiAgICAgICAgICAgICAgICBkYXk6ICdkZGRkIE0vZCcsICAvLyBNb25kYXkgOS83CiAgICAgICAgICAgICAgICBhZ2VuZGFEYXk6ICdkZGRkIGQnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHRpdGxlRm9ybWF0OiB7CiAgICAgICAgICAgICAgICBtb250aDogJ01NTU0geXl5eScsIC8vIFNlcHRlbWJlciAyMDA5CiAgICAgICAgICAgICAgICB3ZWVrOiAiTU1NTSB5eXl5IiwgLy8gU2VwdGVtYmVyIDIwMDkKICAgICAgICAgICAgICAgIGRheTogJ01NTU0geXl5eScgICAgICAgICAgICAgICAgICAvLyBUdWVzZGF5LCBTZXAgOCwgMjAwOQogICAgICAgICAgICB9LAoJCQlhbGxEYXlTbG90OiBmYWxzZSwKCQkJc2VsZWN0SGVscGVyOiB0cnVlLAoJCQlzZWxlY3Q6IGZ1bmN0aW9uKHN0YXJ0LCBlbmQsIGFsbERheSkgewoJCQkJdmFyIHRpdGxlID0gcHJvbXB0KCdFdmVudCBUaXRsZTonKTsKCQkJCWlmICh0aXRsZSkgewoJCQkJCWNhbGVuZGFyLmZ1bGxDYWxlbmRhcigncmVuZGVyRXZlbnQnLAoJCQkJCQl7CgkJCQkJCQl0aXRsZTogdGl0bGUsCgkJCQkJCQlzdGFydDogc3RhcnQsCgkJCQkJCQllbmQ6IGVuZCwKCQkJCQkJCWFsbERheTogYWxsRGF5CgkJCQkJCX0sCgkJCQkJCXRydWUgLy8gbWFrZSB0aGUgZXZlbnQgInN0aWNrIgoJCQkJCSk7CgkJCQl9CgkJCQljYWxlbmRhci5mdWxsQ2FsZW5kYXIoJ3Vuc2VsZWN0Jyk7CgkJCX0sCgkJCWRyb3BwYWJsZTogdHJ1ZSwgLy8gdGhpcyBhbGxvd3MgdGhpbmdzIHRvIGJlIGRyb3BwZWQgb250byB0aGUgY2FsZW5kYXIgISEhCgkJCWRyb3A6IGZ1bmN0aW9uKGRhdGUsIGFsbERheSkgeyAvLyB0aGlzIGZ1bmN0aW9uIGlzIGNhbGxlZCB3aGVuIHNvbWV0aGluZyBpcyBkcm9wcGVkCgoJCQkJLy8gcmV0cmlldmUgdGhlIGRyb3BwZWQgZWxlbWVudCdzIHN0b3JlZCBFdmVudCBPYmplY3QKCQkJCXZhciBvcmlnaW5hbEV2ZW50T2JqZWN0ID0gJCh0aGlzKS5kYXRhKCdldmVudE9iamVjdCcpOwoKCQkJCS8vIHdlIG5lZWQgdG8gY29weSBpdCwgc28gdGhhdCBtdWx0aXBsZSBldmVudHMgZG9uJ3QgaGF2ZSBhIHJlZmVyZW5jZSB0byB0aGUgc2FtZSBvYmplY3QKCQkJCXZhciBjb3BpZWRFdmVudE9iamVjdCA9ICQuZXh0ZW5kKHt9LCBvcmlnaW5hbEV2ZW50T2JqZWN0KTsKCgkJCQkvLyBhc3NpZ24gaXQgdGhlIGRhdGUgdGhhdCB3YXMgcmVwb3J0ZWQKCQkJCWNvcGllZEV2ZW50T2JqZWN0LnN0YXJ0ID0gZGF0ZTsKCQkJCWNvcGllZEV2ZW50T2JqZWN0LmFsbERheSA9IGFsbERheTsKCgkJCQkvLyByZW5kZXIgdGhlIGV2ZW50IG9uIHRoZSBjYWxlbmRhcgoJCQkJLy8gdGhlIGxhc3QgYHRydWVgIGFyZ3VtZW50IGRldGVybWluZXMgaWYgdGhlIGV2ZW50ICJzdGlja3MiIChodHRwOi8vYXJzaGF3LmNvbS9mdWxsY2FsZW5kYXIvZG9jcy9ldmVudF9yZW5kZXJpbmcvcmVuZGVyRXZlbnQvKQoJCQkJJCgnI2NhbGVuZGFyJykuZnVsbENhbGVuZGFyKCdyZW5kZXJFdmVudCcsIGNvcGllZEV2ZW50T2JqZWN0LCB0cnVlKTsKCgkJCQkvLyBpcyB0aGUgInJlbW92ZSBhZnRlciBkcm9wIiBjaGVja2JveCBjaGVja2VkPwoJCQkJaWYgKCQoJyNkcm9wLXJlbW92ZScpLmlzKCc6Y2hlY2tlZCcpKSB7CgkJCQkJLy8gaWYgc28sIHJlbW92ZSB0aGUgZWxlbWVudCBmcm9tIHRoZSAiRHJhZ2dhYmxlIEV2ZW50cyIgbGlzdAoJCQkJCSQodGhpcykucmVtb3ZlKCk7CgkJCQl9CgoJCQl9LAoKCQkJZXZlbnRzOiBbCgkJCQl7CgkJCQkJdGl0bGU6ICdBbGwgRGF5IEV2ZW50JywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgMSkKCQkJCX0sCgkJCQl7CgkJCQkJaWQ6IDk5OSwKCQkJCQl0aXRsZTogJ1JlcGVhdGluZyBFdmVudCcsCgkJCQkJc3RhcnQ6IG5ldyBEYXRlKHksIG0sIGQtMywgMTYsIDApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQkJY2xhc3NOYW1lOiAnaW5mbycKCQkJCX0sCgkJCQl7CgkJCQkJaWQ6IDk5OSwKCQkJCQl0aXRsZTogJ1JlcGVhdGluZyBFdmVudCcsCgkJCQkJc3RhcnQ6IG5ldyBEYXRlKHksIG0sIGQrNCwgMTYsIDApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQkJY2xhc3NOYW1lOiAnaW5mbycKCQkJCX0sCgkJCQl7CgkJCQkJdGl0bGU6ICdNZWV0aW5nJywKCQkJCQlzdGFydDogbmV3IERhdGUoeSwgbSwgZCwgMTAsIDMwKSwKCQkJCQlhbGxEYXk6IGZhbHNlLAoJCQkJCWNsYXNzTmFtZTogJ2ltcG9ydGFudCcKCQkJCX0sCgkJCQl7CgkJCQkJdGl0bGU6ICdMdW5jaCcsCgkJCQkJc3RhcnQ6IG5ldyBEYXRlKHksIG0sIGQsIDEyLCAwKSwKCQkJCQllbmQ6IG5ldyBEYXRlKHksIG0sIGQsIDE0LCAwKSwKCQkJCQlhbGxEYXk6IGZhbHNlLAoJCQkJCWNsYXNzTmFtZTogJ2ltcG9ydGFudCcKCQkJCX0sCgkJCQl7CgkJCQkJdGl0bGU6ICdCaXJ0aGRheSBQYXJ0eScsCgkJCQkJc3RhcnQ6IG5ldyBEYXRlKHksIG0sIGQrMSwgMTksIDApLAoJCQkJCWVuZDogbmV3IERhdGUoeSwgbSwgZCsxLCAyMiwgMzApLAoJCQkJCWFsbERheTogZmFsc2UsCgkJCQl9LAoJCQkJewoJCQkJCXRpdGxlOiAnQ2xpY2sgZm9yIEdvb2dsZScsCgkJCQkJc3RhcnQ6IG5ldyBEYXRlKHksIG0sIDI4KSwKCQkJCQllbmQ6IG5ldyBEYXRlKHksIG0sIDI5KSwKCQkJCQl1cmw6ICdodHRwOi8vZ29vZ2xlLmNvbS8nLAoJCQkJCWNsYXNzTmFtZTogJ3N1Y2Nlc3MnCgkJCQl9CgkJCV0sCgkJfSk7CgoKCX0pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -195,14 +389,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICA8ZmlndXJlIGNsYXNzPSJlZmZlY3Qtb3NjYXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL2hvbWUtaW1hZ2VzL2ltYWdlLTQuanBnIiBhbHQ9IiIgY2xhc3M9ImltZy1yZXNwb25zaXZlIi8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmaWdjYXB0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyPkEgQnJhbmQgPHNwYW4+bmV3IEFnZW5jeTwvc3Bhbj48L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+T3ZlciA0MCwwMDAgY3VzdG9tZXJzIHVzZSBvdXIgdGhlbWVzIHRvIHBvd2VyIHRoZWlyPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0id29ya3MtZGV0YWlscy5odG1sIj5WaWV3IG1vcmU8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlnY2FwdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICAgIDwvbGk+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8L3NlY3Rpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2ZpZ3VyZT4K</text>
+        <text encoding="base64">ICAgICAgIDxzZWN0aW9uIGNsYXNzPSJjb2wteHMtMTIgY29sLXNtLTYgY29sLW1kLTYgY29sLWxnLTYgIj4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
