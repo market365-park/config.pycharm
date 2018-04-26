@@ -98,6 +98,11 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="D:/home/workspaces/pythonWorkspace/temp/dag_test.py" timestamp="1524710163099">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524669145280">
         <mark key="[" line="237" column="67" />
         <mark key="]" line="239" column="41" />
@@ -169,8 +174,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -178,20 +183,20 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text>5</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVtcGxhdGVkX2NvbW1hbmQgPSAiIiIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -206,7 +211,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIAk8aDI+PHNwYW4+YXZhbmE8L3NwYW4+IEEgQnJhbmQgbmV3IEFnZW5jeS48L2gyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
