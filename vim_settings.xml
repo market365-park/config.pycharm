@@ -3,28 +3,53 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524669145280">
-        <mark key="[" line="237" column="67" />
-        <mark key="]" line="239" column="41" />
-        <mark key="." line="239" column="41" />
-        <mark key="^" line="239" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="31" />
-      </file>
-      <file name="$USER_HOME$/Downloads/gentelella-master/build/js/custom.js" timestamp="1524664771472">
-        <mark key="[" line="2386" column="16" />
-        <mark key="]" line="2478" column="18" />
-        <mark key="." line="2386" column="16" />
-      </file>
       <file name="/fragment.py" timestamp="1523401224853">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
+        <mark key="[" line="27" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/roles/booking/tasks/04_Container.yml" timestamp="1524573280090">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/serializers.py" timestamp="1523595813265">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373296242">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
+        <mark key="[" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/footer.html" timestamp="1524585598922">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/admin.py" timestamp="1524575774758">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
+        <mark key="[" line="45" column="65" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523599798151">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524667697201">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="93" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings/production.py" timestamp="1524573408531">
         <mark key="[" line="7" column="20" />
@@ -32,46 +57,14 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/models.py" timestamp="1524576869838">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/roles/booking/tasks/04_Container.yml" timestamp="1524573280090">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/views.py" timestamp="1524579829901">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
-        <mark key="[" line="45" column="65" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/x_full_calendar/fullcalendar.html" timestamp="1524662824534">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523599798151">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/stack_manager/views.py" timestamp="1523322639092">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="67" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/views.py" timestamp="1524577934034">
         <mark key="[" line="3" column="0" />
@@ -83,12 +76,6 @@
         <mark key="]" line="7" column="55" />
         <mark key="." line="7" column="55" />
         <mark key="^" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="32" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="111" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1524575939029">
         <mark key="[" line="0" column="0" />
@@ -103,15 +90,27 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373296242">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Downloads/gentelella-master/production/calendar.html" timestamp="1524664416405">
+        <mark key="[" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/admin.py" timestamp="1524575774758">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523409536503">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524669145280">
+        <mark key="[" line="237" column="67" />
+        <mark key="]" line="239" column="41" />
+        <mark key="." line="239" column="41" />
+        <mark key="^" line="239" column="41" />
+      </file>
+      <file name="[Connection]consoles\Connection" timestamp="1523323103561">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/gentelella-master/build/js/custom.js" timestamp="1524664771472">
+        <mark key="[" line="2386" column="16" />
+        <mark key="]" line="2478" column="18" />
+        <mark key="." line="2386" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524584882082">
         <mark key="[" line="135" column="19" />
@@ -119,41 +118,42 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524667697201">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="93" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523409536503">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
-        <mark key="[" line="16" column="33" />
-      </file>
-      <file name="[Connection]consoles\Connection" timestamp="1523323103561">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/gentelella-master/production/calendar.html" timestamp="1524664416405">
-        <mark key="[" line="12" column="4" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/models.py" timestamp="1524576869838">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/admin.py" timestamp="1523596013799">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
-        <mark key="[" line="27" column="17" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/views.py" timestamp="1524579829901">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="32" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/x_full_calendar/fullcalendar.html" timestamp="1524662824534">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523584010989">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/footer.html" timestamp="1524585598922">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
