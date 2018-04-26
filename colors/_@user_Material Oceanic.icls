@@ -4,11 +4,13 @@
     <property name="created">2018-04-09T20:30:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-26T10:59:44</property>
+    <property name="modified">2018-04-26T11:14:38</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_FONT_NAME" value="Hack" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
