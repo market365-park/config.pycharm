@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524669145280">
-        <mark key="[" line="237" column="67" />
-        <mark key="]" line="239" column="41" />
-        <mark key="." line="239" column="41" />
-        <mark key="^" line="239" column="41" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1525063442635">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="161" column="30" />
+        <mark key="." line="161" column="30" />
+        <mark key="^" line="161" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
         <mark key="[" line="122" column="0" />
@@ -32,6 +32,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/booking/models.py" timestamp="1525061558338" />
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/models.py" timestamp="1524576869838">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -43,7 +44,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/views.py" timestamp="1524579829901">
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/views.py" timestamp="1525060404396">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -63,26 +64,14 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/stack_manager/views.py" timestamp="1523322639092">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="67" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/views.py" timestamp="1524577934034">
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/views.py" timestamp="1525062232403">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="50" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" timestamp="1524576896111">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
         <mark key="[" line="112" column="0" />
@@ -90,6 +79,12 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/room/models.py" timestamp="1525061460949">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/room/views.py" timestamp="1525062418194" />
       <file name="/Dummy.txt" timestamp="1524575939029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,13 +108,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524584882082">
-        <mark key="[" line="135" column="19" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1525061523442">
+        <mark key="[" line="40" column="11" />
         <mark key="]" line="131" column="32" />
         <mark key="." line="131" column="0" />
         <mark key="^" line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524667697201">
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1525063259067">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="93" />
       </file>
@@ -128,9 +123,7 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
-        <mark key="[" line="16" column="33" />
-      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1525060779566" />
       <file name="[Connection]consoles\Connection" timestamp="1523323103561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,6 +138,11 @@
       <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
         <mark key="[" line="27" column="17" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/room/urls.py" timestamp="1525060795680">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523584010989">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="0" />
@@ -154,6 +152,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/views.py" timestamp="1525061033864">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -169,11 +172,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgbWluVGltZTogIjA3OjAwOjAwIiwKICAgICAgICAgICAgbWF4VGltZTogIjIwOjAwOjAwIiwKICAgICAgICAgICAgYnVzaW5lc3NIb3VyczogewogICAgICAgICAgICAvLyBkYXlzIG9mIHdlZWsuIGFuIGFycmF5IG9mIHplcm8tYmFzZWQgZGF5IG9mIHdlZWsgaW50ZWdlcnMgKDA9U3VuZGF5KQogICAgICAgICAgICAgICAgZG93OiBbMSwgMiwgMywgNCwgNV0sIC8vIE1vbmRheSAtIFRodXJzZGF5CiAgICAgICAgICAgICAgICBzdGFydDogJzA4OjAwJywgLy8gYSBzdGFydCB0aW1lICgxMGFtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgICAgIGVuZDogJzE5OjAwJyAvLyBhbiBlbmQgdGltZSAoNnBtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgfSw=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>dwLoginRequiredMixin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -181,32 +184,32 @@
       <register name="0" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgbWluVGltZTogIjA3OjAwOjAwIiwKICAgICAgICAgICAgbWF4VGltZTogIjIwOjAwOjAwIiwKICAgICAgICAgICAgYnVzaW5lc3NIb3VyczogewogICAgICAgICAgICAvLyBkYXlzIG9mIHdlZWsuIGFuIGFycmF5IG9mIHplcm8tYmFzZWQgZGF5IG9mIHdlZWsgaW50ZWdlcnMgKDA9U3VuZGF5KQogICAgICAgICAgICAgICAgZG93OiBbMSwgMiwgMywgNCwgNV0sIC8vIE1vbmRheSAtIFRodXJzZGF5CiAgICAgICAgICAgICAgICBzdGFydDogJzA4OjAwJywgLy8gYSBzdGFydCB0aW1lICgxMGFtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgICAgIGVuZDogJzE5OjAwJyAvLyBhbiBlbmQgdGltZSAoNnBtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgfSw=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50czogYm9va2luZ0luZm9zLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlczogcm9vbVJlc291cmNlcywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFsncm9vbXMnXSA9IFJvb20ub2JqZWN0cy5hbGwoKQogICAgICAgICAgICByZXR1cm4gY29udGV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBBbmQgc28gb24gZm9yIG1vcmUgbW9kZWxzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFsncm9vbXMnXSA9IFJvb20ub2JqZWN0cy5hbGwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIAk8aDI+PHNwYW4+YXZhbmE8L3NwYW4+IEEgQnJhbmQgbmV3IEFnZW5jeS48L2gyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dCA9IHN1cGVyKEhvbWVWaWV3LCBzZWxmKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
