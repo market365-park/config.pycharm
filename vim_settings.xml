@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1525063442635">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="161" column="30" />
-        <mark key="." line="161" column="30" />
-        <mark key="^" line="161" column="30" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1525100820262">
+        <mark key="[" line="176" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
         <mark key="[" line="122" column="0" />
@@ -33,6 +30,11 @@
         <mark key="^" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/booking/models.py" timestamp="1525061558338" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/room/admin.py" timestamp="1525099625257">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/models.py" timestamp="1524576869838">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -64,6 +66,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/booking/admin.py" timestamp="1525099758956" />
       <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/stack_manager/views.py" timestamp="1523322639092">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="67" />
@@ -73,7 +76,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1525100917815">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="32" />
         <mark key="." line="112" column="0" />
@@ -84,7 +87,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/room/views.py" timestamp="1525062418194" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/room/views.py" timestamp="1525100262318" />
       <file name="/Dummy.txt" timestamp="1524575939029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,7 +117,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1525063259067">
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1525101146912">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="93" />
       </file>
@@ -173,7 +176,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbWluVGltZTogIjA3OjAwOjAwIiwKICAgICAgICAgICAgbWF4VGltZTogIjIwOjAwOjAwIiwKICAgICAgICAgICAgYnVzaW5lc3NIb3VyczogewogICAgICAgICAgICAvLyBkYXlzIG9mIHdlZWsuIGFuIGFycmF5IG9mIHplcm8tYmFzZWQgZGF5IG9mIHdlZWsgaW50ZWdlcnMgKDA9U3VuZGF5KQogICAgICAgICAgICAgICAgZG93OiBbMSwgMiwgMywgNCwgNV0sIC8vIE1vbmRheSAtIFRodXJzZGF5CiAgICAgICAgICAgICAgICBzdGFydDogJzA4OjAwJywgLy8gYSBzdGFydCB0aW1lICgxMGFtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgICAgIGVuZDogJzE5OjAwJyAvLyBhbiBlbmQgdGltZSAoNnBtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgfSw=</text>
+        <text encoding="base64">CgkJCWRyb3BwYWJsZTogdHJ1ZSwgLy8gdGhpcyBhbGxvd3MgdGhpbmdzIHRvIGJlIGRyb3BwZWQgb250byB0aGUgY2FsZW5kYXIgISEhCgkJCWRyb3A6IGZ1bmN0aW9uKGRhdGUsIGFsbERheSkgeyAvLyB0aGlzIGZ1bmN0aW9uIGlzIGNhbGxlZCB3aGVuIHNvbWV0aGluZyBpcyBkcm9wcGVkCgoJCQkJLy8gcmV0cmlldmUgdGhlIGRyb3BwZWQgZWxlbWVudCdzIHN0b3JlZCBFdmVudCBPYmplY3QKCQkJCXZhciBvcmlnaW5hbEV2ZW50T2JqZWN0ID0gJCh0aGlzKS5kYXRhKCdldmVudE9iamVjdCcpOwoKCQkJCS8vIHdlIG5lZWQgdG8gY29weSBpdCwgc28gdGhhdCBtdWx0aXBsZSBldmVudHMgZG9uJ3QgaGF2ZSBhIHJlZmVyZW5jZSB0byB0aGUgc2FtZSBvYmplY3QKCQkJCXZhciBjb3BpZWRFdmVudE9iamVjdCA9ICQuZXh0ZW5kKHt9LCBvcmlnaW5hbEV2ZW50T2JqZWN0KTsKCgkJCQkvLyBhc3NpZ24gaXQgdGhlIGRhdGUgdGhhdCB3YXMgcmVwb3J0ZWQKCQkJCWNvcGllZEV2ZW50T2JqZWN0LnN0YXJ0ID0gZGF0ZTsKCQkJCWNvcGllZEV2ZW50T2JqZWN0LmFsbERheSA9IGFsbERheTsKCgkJCQkvLyByZW5kZXIgdGhlIGV2ZW50IG9uIHRoZSBjYWxlbmRhcgoJCQkJLy8gdGhlIGxhc3QgYHRydWVgIGFyZ3VtZW50IGRldGVybWluZXMgaWYgdGhlIGV2ZW50ICJzdGlja3MiIChodHRwOi8vYXJzaGF3LmNvbS9mdWxsY2FsZW5kYXIvZG9jcy9ldmVudF9yZW5kZXJpbmcvcmVuZGVyRXZlbnQvKQoJCQkJJCgnI2NhbGVuZGFyJykuZnVsbENhbGVuZGFyKCdyZW5kZXJFdmVudCcsIGNvcGllZEV2ZW50T2JqZWN0LCB0cnVlKTsKCgkJCQkvLyBpcyB0aGUgInJlbW92ZSBhZnRlciBkcm9wIiBjaGVja2JveCBjaGVja2VkPwoJCQkJaWYgKCQoJyNkcm9wLXJlbW92ZScpLmlzKCc6Y2hlY2tlZCcpKSB7CgkJCQkJLy8gaWYgc28sIHJlbW92ZSB0aGUgZWxlbWVudCBmcm9tIHRoZSAiRHJhZ2dhYmxlIEV2ZW50cyIgbGlzdAoJCQkJCSQodGhpcykucmVtb3ZlKCk7CgkJCQl9CgoJCQl9LA==</text>
       </register>
       <register name="-" type="4">
         <text>dwLoginRequiredMixin</text>
@@ -185,31 +188,76 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbWluVGltZTogIjA3OjAwOjAwIiwKICAgICAgICAgICAgbWF4VGltZTogIjIwOjAwOjAwIiwKICAgICAgICAgICAgYnVzaW5lc3NIb3VyczogewogICAgICAgICAgICAvLyBkYXlzIG9mIHdlZWsuIGFuIGFycmF5IG9mIHplcm8tYmFzZWQgZGF5IG9mIHdlZWsgaW50ZWdlcnMgKDA9U3VuZGF5KQogICAgICAgICAgICAgICAgZG93OiBbMSwgMiwgMywgNCwgNV0sIC8vIE1vbmRheSAtIFRodXJzZGF5CiAgICAgICAgICAgICAgICBzdGFydDogJzA4OjAwJywgLy8gYSBzdGFydCB0aW1lICgxMGFtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgICAgIGVuZDogJzE5OjAwJyAvLyBhbiBlbmQgdGltZSAoNnBtIGluIHRoaXMgZXhhbXBsZSkKICAgICAgICAgICAgfSw=</text>
+        <text encoding="base64">CgkJCWRyb3BwYWJsZTogdHJ1ZSwgLy8gdGhpcyBhbGxvd3MgdGhpbmdzIHRvIGJlIGRyb3BwZWQgb250byB0aGUgY2FsZW5kYXIgISEhCgkJCWRyb3A6IGZ1bmN0aW9uKGRhdGUsIGFsbERheSkgeyAvLyB0aGlzIGZ1bmN0aW9uIGlzIGNhbGxlZCB3aGVuIHNvbWV0aGluZyBpcyBkcm9wcGVkCgoJCQkJLy8gcmV0cmlldmUgdGhlIGRyb3BwZWQgZWxlbWVudCdzIHN0b3JlZCBFdmVudCBPYmplY3QKCQkJCXZhciBvcmlnaW5hbEV2ZW50T2JqZWN0ID0gJCh0aGlzKS5kYXRhKCdldmVudE9iamVjdCcpOwoKCQkJCS8vIHdlIG5lZWQgdG8gY29weSBpdCwgc28gdGhhdCBtdWx0aXBsZSBldmVudHMgZG9uJ3QgaGF2ZSBhIHJlZmVyZW5jZSB0byB0aGUgc2FtZSBvYmplY3QKCQkJCXZhciBjb3BpZWRFdmVudE9iamVjdCA9ICQuZXh0ZW5kKHt9LCBvcmlnaW5hbEV2ZW50T2JqZWN0KTsKCgkJCQkvLyBhc3NpZ24gaXQgdGhlIGRhdGUgdGhhdCB3YXMgcmVwb3J0ZWQKCQkJCWNvcGllZEV2ZW50T2JqZWN0LnN0YXJ0ID0gZGF0ZTsKCQkJCWNvcGllZEV2ZW50T2JqZWN0LmFsbERheSA9IGFsbERheTsKCgkJCQkvLyByZW5kZXIgdGhlIGV2ZW50IG9uIHRoZSBjYWxlbmRhcgoJCQkJLy8gdGhlIGxhc3QgYHRydWVgIGFyZ3VtZW50IGRldGVybWluZXMgaWYgdGhlIGV2ZW50ICJzdGlja3MiIChodHRwOi8vYXJzaGF3LmNvbS9mdWxsY2FsZW5kYXIvZG9jcy9ldmVudF9yZW5kZXJpbmcvcmVuZGVyRXZlbnQvKQoJCQkJJCgnI2NhbGVuZGFyJykuZnVsbENhbGVuZGFyKCdyZW5kZXJFdmVudCcsIGNvcGllZEV2ZW50T2JqZWN0LCB0cnVlKTsKCgkJCQkvLyBpcyB0aGUgInJlbW92ZSBhZnRlciBkcm9wIiBjaGVja2JveCBjaGVja2VkPwoJCQkJaWYgKCQoJyNkcm9wLXJlbW92ZScpLmlzKCc6Y2hlY2tlZCcpKSB7CgkJCQkJLy8gaWYgc28sIHJlbW92ZSB0aGUgZWxlbWVudCBmcm9tIHRoZSAiRHJhZ2dhYmxlIEV2ZW50cyIgbGlzdAoJCQkJCSQodGhpcykucmVtb3ZlKCk7CgkJCQl9CgoJCQl9LA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>events: [
+				{
+					title: 'All Day Event',
+					start: new Date(y, m, 1)
+				},
+				{
+					id: 999,
+					title: 'Repeating Event',
+					start: new Date(y, m, d-3, 16, 0),
+					allDay: false,
+					className: 'info'
+				},
+				{
+					id: 999,
+					title: 'Repeating Event',
+					start: new Date(y, m, d+4, 16, 0),
+					allDay: false,
+					className: 'info'
+				},
+				{
+					title: 'Meeting',
+					start: new Date(y, m, d, 10, 30),
+					allDay: false,
+					className: 'important'
+				},
+				{
+					title: 'Lunch',
+					start: new Date(y, m, d, 12, 0),
+					end: new Date(y, m, d, 14, 0),
+					allDay: false,
+					className: 'important'
+				},
+				{
+					title: 'Birthday Party',
+					start: new Date(y, m, d+1, 19, 0),
+					end: new Date(y, m, d+1, 22, 30),
+					allDay: false,
+				},
+				{
+					title: 'Click for Google',
+					start: new Date(y, m, 28),
+					end: new Date(y, m, 29),
+					url: 'http://google.com/',
+					className: 'success'
+				}
+			]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50czogYm9va2luZ0luZm9zLAo=</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihVc2VyLCBVc2VyQWRtaW4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc291cmNlczogcm9vbVJlc291cmNlcywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFsncm9vbXMnXSA9IFJvb20ub2JqZWN0cy5hbGwoKQogICAgICAgICAgICByZXR1cm4gY29udGV4dAo=</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCdmaXJzdF9uYW1lJywgJ2xhc3RfbmFtZScsICd1c2VybmFtZScsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQK</text>
+        <text encoding="base64">ICAgIGxpc3RfZmlsdGVyID0gKCdsYXN0X25hbWUnLCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBBbmQgc28gb24gZm9yIG1vcmUgbW9kZWxzCg==</text>
+        <text encoding="base64">CiAgICBzZWFyY2hfZmllbGRzID0gKCdmaXJzdF9uYW1lJywpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFsncm9vbXMnXSA9IFJvb20ub2JqZWN0cy5hbGwoKQo=</text>
+        <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgndXNlcm5hbWUnLCAnZmlyc3RfbmFtZScsICdsYXN0X25hbWUnLCAncGhvbmUnLCAnZW1haWwnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dCA9IHN1cGVyKEhvbWVWaWV3LCBzZWxmKS5nZXRfY29udGV4dF9kYXRhKCoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Y2xhc3MgVXNlckFkbWluKGFkbWluLk1vZGVsQWRtaW4pOgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
