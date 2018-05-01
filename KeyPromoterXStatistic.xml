@@ -121,6 +121,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RUNSERVER'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'RUNSERVER'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'makemigrations'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>

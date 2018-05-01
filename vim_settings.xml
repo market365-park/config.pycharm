@@ -3,53 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1525169426485">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="31" />
+      </file>
       <file name="/fragment.py" timestamp="1523401224853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
-        <mark key="[" line="27" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/roles/booking/tasks/04_Container.yml" timestamp="1524573280090">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Downloads/gentelella-master/build/js/custom.js" timestamp="1524664771472">
+        <mark key="[" line="2386" column="16" />
+        <mark key="]" line="2478" column="18" />
+        <mark key="." line="2386" column="16" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/serializers.py" timestamp="1523595813265">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373296242">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
-        <mark key="[" line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/footer.html" timestamp="1524585598922">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/admin.py" timestamp="1524575774758">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
-        <mark key="[" line="45" column="65" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523599798151">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524667697201">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="93" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings/production.py" timestamp="1524573408531">
         <mark key="[" line="7" column="20" />
@@ -57,14 +31,46 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/models.py" timestamp="1524576869838">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/deploy/roles/booking/tasks/04_Container.yml" timestamp="1524573280090">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/views.py" timestamp="1524579829901">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/dev.mgcs/openstack_driver/urls.py" timestamp="1523326211092">
+        <mark key="[" line="45" column="65" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/x_full_calendar/fullcalendar.html" timestamp="1524662824534">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
+      <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/views.py" timestamp="1523599798151">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/home/workspaces/djangoWorkspace/cc2_os_api/stack_manager/views.py" timestamp="1523322639092">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="67" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="31" />
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/MRBS/views.py" timestamp="1524577934034">
         <mark key="[" line="3" column="0" />
@@ -76,6 +82,12 @@
         <mark key="]" line="7" column="55" />
         <mark key="." line="7" column="55" />
         <mark key="^" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="32" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="111" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1524575939029">
         <mark key="[" line="0" column="0" />
@@ -90,8 +102,28 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/gentelella-master/production/calendar.html" timestamp="1524664416405">
-        <mark key="[" line="12" column="4" />
+      <file name="$USER_HOME$/Workspace/django/cc2_os_api/README.md" timestamp="1523373296242">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/admin.py" timestamp="1524575774758">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/home.html" timestamp="1524667697201">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="93" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524584882082">
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="131" column="32" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/urls.py" timestamp="1524661178096">
+        <mark key="[" line="16" column="33" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/README.md" timestamp="1523409536503">
         <mark key="[" line="10" column="4" />
@@ -103,62 +135,29 @@
         <mark key="]" line="25" column="36" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1524669145280">
-        <mark key="[" line="237" column="67" />
-        <mark key="]" line="239" column="41" />
-        <mark key="." line="239" column="41" />
-        <mark key="^" line="239" column="41" />
+      <file name="$USER_HOME$/Downloads/gentelella-master/production/calendar.html" timestamp="1524664416405">
+        <mark key="[" line="12" column="4" />
       </file>
       <file name="[Connection]consoles\Connection" timestamp="1523323103561">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/gentelella-master/build/js/custom.js" timestamp="1524664771472">
-        <mark key="[" line="2386" column="16" />
-        <mark key="]" line="2478" column="18" />
-        <mark key="." line="2386" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/myapp/settings.py" timestamp="1524584882082">
-        <mark key="[" line="135" column="19" />
-        <mark key="]" line="131" column="32" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/account/models.py" timestamp="1524576869838">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="1" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/admin.py" timestamp="1523596013799">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/views.py" timestamp="1524579829901">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/base.html" timestamp="1524663628401">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="32" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="111" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/x_full_calendar/fullcalendar.html" timestamp="1524662824534">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/django/booking_v3.web/booking/models.py" timestamp="1524575820594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/django/cc2_os_api/myapp/settings.py" timestamp="1523276812017">
+        <mark key="[" line="27" column="17" />
       </file>
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/myapp/urls.py" timestamp="1523584010989">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/footer.html" timestamp="1524585598922">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -174,8 +173,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/Workspace/django/booking_v3.web/account/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -190,25 +189,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpbml0X2F1dG9jb21wbGV0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVtcGxhdGVkX2NvbW1hbmQgPSAiIiIK</text>
+        <text encoding="base64">CQlpbml0X2F1dG9zaXplKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpbml0X0N1c3RvbU5vdGlmaWNhdGlvbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQJCWluaXRfY29tcG9zZSgpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgkJaW5pdF9zcGFya2xpbmVzKCk7CgkJaW5pdF9mbG90X2NoYXJ0KCk7CgkJaW5pdF9zaWRlYmFyKCk7CgkJaW5pdF93eXNpd3lnKCk7CgkJaW5pdF9JbnB1dE1hc2soKTsKCQlpbml0X0pRVm1hcCgpOwoJCWluaXRfY3JvcHBlcigpOwoJCWluaXRfa25vYigpOwoJCWluaXRfSW9uUmFuZ2VTbGlkZXIoKTsKCQlpbml0X0NvbG9yUGlja2VyKCk7CgkJaW5pdF9UYWdzSW5wdXQoKTsKCQlpbml0X3BhcnNsZXkoKTsKCQlpbml0X2RhdGVyYW5nZXBpY2tlcigpOwoJCWluaXRfZGF0ZXJhbmdlcGlja2VyX3JpZ2h0KCk7CgkJaW5pdF9kYXRlcmFuZ2VwaWNrZXJfc2luZ2xlX2NhbGwoKTsKCQlpbml0X2RhdGVyYW5nZXBpY2tlcl9yZXNlcnZhdGlvbigpOwoJCWluaXRfU21hcnRXaXphcmQoKTsKCQlpbml0X0Vhc3lQaWVDaGFydCgpOwoJCWluaXRfY2hhcnRzKCk7CgkJaW5pdF9lY2hhcnRzKCk7CgkJaW5pdF9tb3JyaXNfY2hhcnRzKCk7CgkJaW5pdF9za3ljb25zKCk7CgkJaW5pdF9zZWxlY3QyKCk7CgkJaW5pdF92YWxpZGF0b3IoKTsKCQlpbml0X0RhdGFUYWJsZXMoKTsKCQlpbml0X2NoYXJ0X2RvdWdobnV0KCk7CgkJaW5pdF9nYXVnZSgpOwoJCWluaXRfUE5vdGlmeSgpOwoJCWluaXRfc3RhcnJyKCk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgkkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsKCgoJICAgIHZhciBkYXRlID0gbmV3IERhdGUoKTsKCQl2YXIgZCA9IGRhdGUuZ2V0RGF0ZSgpOwoJCXZhciBtID0gZGF0ZS5nZXRNb250aCgpOwoJCXZhciB5ID0gZGF0ZS5nZXRGdWxsWWVhcigpOwoKCQkvKiAgY2xhc3NOYW1lIGNvbG9ycwoKCQljbGFzc05hbWU6IGRlZmF1bHQodHJhbnNwYXJlbnQpLCBpbXBvcnRhbnQocmVkKSwgY2hpbGwocGluayksIHN1Y2Nlc3MoZ3JlZW4pLCBpbmZvKGJsdWUpCgoJCSovCgoKCQkvKiBpbml0aWFsaXplIHRoZSBleHRlcm5hbCBldmVudHMKCQktLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgoJCSQoJyNleHRlcm5hbC1ldmVudHMgZGl2LmV4dGVybmFsLWV2ZW50JykuZWFjaChmdW5jdGlvbigpIHsKCgkJCS8vIGNyZWF0ZSBhbiBFdmVudCBPYmplY3QgKGh0dHA6Ly9hcnNoYXcuY29tL2Z1bGxjYWxlbmRhci9kb2NzL2V2ZW50X2RhdGEvRXZlbnRfT2JqZWN0LykKCQkJLy8gaXQgZG9lc24ndCBuZWVkIHRvIGhhdmUgYSBzdGFydCBvciBlbmQKCQkJdmFyIGV2ZW50T2JqZWN0ID0gewoJCQkJdGl0bGU6ICQudHJpbSgkKHRoaXMpLnRleHQoKSkgLy8gdXNlIHRoZSBlbGVtZW50J3MgdGV4dCBhcyB0aGUgZXZlbnQgdGl0bGUKCQkJfTsKCgkJCS8vIHN0b3JlIHRoZSBFdmVudCBPYmplY3QgaW4gdGhlIERPTSBlbGVtZW50IHNvIHdlIGNhbiBnZXQgdG8gaXQgbGF0ZXIKCQkJJCh0aGlzKS5kYXRhKCdldmVudE9iamVjdCcsIGV2ZW50T2JqZWN0KTsKCgkJCS8vIG1ha2UgdGhlIGV2ZW50IGRyYWdnYWJsZSB1c2luZyBqUXVlcnkgVUkKCQkJJCh0aGlzKS5kcmFnZ2FibGUoewoJCQkJekluZGV4OiA5OTksCgkJCQlyZXZlcnQ6IHRydWUsICAgICAgLy8gd2lsbCBjYXVzZSB0aGUgZXZlbnQgdG8gZ28gYmFjayB0byBpdHMKCQkJCXJldmVydER1cmF0aW9uOiAwICAvLyAgb3JpZ2luYWwgcG9zaXRpb24gYWZ0ZXIgdGhlIGRyYWcKCQkJfSk7CgoJCX0pOwoKCgkJLyogaW5pdGlhbGl6ZSB0aGUgY2FsZW5kYXIKCQktLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgoJCXZhciBjYWxlbmRhciA9ICAkKCcjY2FsZW5kYXInKS5mdWxsQ2FsZW5kYXIoewoJCQlzY2hlZHVsZXJMaWNlbnNlS2V5OiAnQ0MtQXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2YXRpdmVzJywKCQkJaGVhZGVyOiB7CgkJCQljZW50ZXI6ICd0aXRsZScsCgkJCQlsZWZ0OiAnYWdlbmRhRGF5LGFnZW5kYVdlZWssbW9udGgnLAoJCQkJcmlnaHQ6ICdwcmV2LG5leHQgdG9kYXknCgkJCX0sCgkJCWVkaXRhYmxlOiB0cnVlLAoJCQlmaXJzdERheTogMCwgLy8gIDEoTW9uZGF5KSB0aGlzIGNhbiBiZSBjaGFuZ2VkIHRvIDAoU3VuZGF5KSBmb3IgdGhlIFVTQSBzeXN0ZW0KCQkJc2VsZWN0YWJsZTogdHJ1ZSwKCQkJZGVmYXVsdFZpZXc6ICdhZ2VuZGFEYXknLAoJCQlheGlzRm9ybWF0OiAnaDptbScsCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld3M6IHsKICAgICAgICAgICAgICAgICAgICBhZ2VuZGFEYXk6IHsgLy8gbmFtZSBvZiB2aWV3CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlRm9ybWF0OiAnZGRkLCBNTU1NIEQnLAogICAgICAgICAgICAgICAgICAgICAgICBncm91cEJ5UmVzb3VyY2U6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIG90aGVyIHZpZXctc3BlY2lmaWMgb3B0aW9ucyBoZXJlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBhZ2VuZGFXZWVrOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlRm9ybWF0OiAnRCwgTU1NTScsCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBtb250aDogewogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZUZvcm1hdDogJ01NTU0sIFlZWVknLAoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICBub3dJbmRpY2F0b3I6IHRydWUsCgkJICAgIGFsbERheVNsb3Q6IGZhbHNlLAogICAgICAgICAgICBtaW5UaW1lOiAiMDc6MDA6MDAiLAogICAgICAgICAgICBtYXhUaW1lOiAiMjA6MDA6MDAiLAogICAgICAgICAgICBidXNpbmVzc0hvdXJzOiB7CiAgICAgICAgICAgIC8vIGRheXMgb2Ygd2Vlay4gYW4gYXJyYXkgb2YgemVyby1iYXNlZCBkYXkgb2Ygd2VlayBpbnRlZ2VycyAoMD1TdW5kYXkpCiAgICAgICAgICAgICAgICBkb3c6IFsxLCAyLCAzLCA0LCA1XSwgLy8gTW9uZGF5IC0gVGh1cnNkYXkKICAgICAgICAgICAgICAgIHN0YXJ0OiAnMDg6MDAnLCAvLyBhIHN0YXJ0IHRpbWUgKDEwYW0gaW4gdGhpcyBleGFtcGxlKQogICAgICAgICAgICAgICAgZW5kOiAnMTk6MDAnIC8vIGFuIGVuZCB0aW1lICg2cG0gaW4gdGhpcyBleGFtcGxlKQogICAgICAgICAgICB9LAoJCQlzZWxlY3RIZWxwZXI6IHRydWUsCgkJCXNlbGVjdE92ZXJsYXA6IGZhbHNlLAogICAgICAgICAgICBzZWxlY3RhYmxlOiB0cnVlLAoJCQlzZWxlY3Q6IGZ1bmN0aW9uKHN0YXJ0LCBlbmQsIGFsbERheSkgewoJCQkJdmFyIHRpdGxlID0gcHJvbXB0KCdFdmVudCBUaXRsZTonKTsKCQkJCWlmICh0aXRsZSkgewoJCQkJCWNhbGVuZGFyLmZ1bGxDYWxlbmRhcigncmVuZGVyRXZlbnQnLAoJCQkJCQl7CgkJCQkJCQl0aXRsZTogdGl0bGUsCgkJCQkJCQlzdGFydDogc3RhcnQsCgkJCQkJCQllbmQ6IGVuZCwKCQkJCQkJCWFsbERheTogYWxsRGF5CgkJCQkJCX0sCgkJCQkJCXRydWUgLy8gbWFrZSB0aGUgZXZlbnQgInN0aWNrIgoJCQkJCSk7CgkJCQl9CgkJCQljYWxlbmRhci5mdWxsQ2FsZW5kYXIoJ3Vuc2VsZWN0Jyk7CgkJCX0sCiAgICAgICAgICAgICAgICAgIHJlc291cmNlczogcm9vbXMsCgkJCWV2ZW50czogcm9vbV9ib29raW5ncywKCQl9KTsKCgoJfSk7</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
