@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home.html" timestamp="1525181580861">
+        <mark key="[" line="95" column="19" />
+        <mark key="]" line="96" column="2" />
+        <mark key="^" line="96" column="2" />
+        <mark key="." line="96" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspace/django/booking.web_ori/templates/base.html" timestamp="1524667641205">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="31" />
@@ -136,6 +142,7 @@
       <file name="[Connection]consoles\Connection" timestamp="1523323103561">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/django/booking_v3.web/templates/home_back.html" timestamp="1525181554190" />
       <file name="D:/home/workspaces/djangoWorkspace/cloud.cc2_os_api/api_manager/admin.py" timestamp="1523596013799">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="5" column="0" />
