@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>4</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -86,7 +86,7 @@
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -102,23 +102,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rename...">
-        <Item>
-          <IdeaActionID>RenameElement</IdeaActionID>
-          <ShortCut>'⇧F6'</ShortCut>
-          <Description>Rename...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'RUNSERVER'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'RUNSERVER'</Description>
-          <Count>11</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'runserver'">
@@ -135,14 +119,6 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'RUNSERVER'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'RUNSERVER'</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'makemigrations'">
@@ -182,7 +158,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Sync">
@@ -278,7 +254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -286,7 +262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>30</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
