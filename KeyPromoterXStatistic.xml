@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RUNSERVER_office'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'RUNSERVER_office'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'runserver'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -214,7 +222,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MAKEMIGRATIONS'">
@@ -246,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RUNSERVER_office'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'makemigrations'">
@@ -286,7 +294,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
