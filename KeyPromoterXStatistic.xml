@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -206,7 +206,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RUNSERVER_office'</Description>
-          <Count>32</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'runserver'">
