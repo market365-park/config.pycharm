@@ -422,7 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'RUNSERVER'</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RUNSERVER_office'">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
